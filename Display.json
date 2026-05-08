@@ -1,40 +1,58 @@
 {
-  "32": {
-    "true": [
-      {
-        "ID": "rbxassetid://87341546300220",
-        "Num": "32",
-        "Chi": "迎田",
-        "Eng": "YING TIN",
-        "Delay": 4
-      },
-      {
-        "ID": "rbxassetid://117586941187983",
-        "Num": "32",
-        "Chi": "經:裕華苑",
-        "Eng": "VIA: YUE WAH COURT",
-        "Delay": 2.5
-      }
-    ],
-    "false": [
-      {
-        "ID": "rbxassetid://71532609034102",
-        "Num": "32",
-        "Chi": "大園碼頭",
-        "Eng": "TAI YUEN PIER",
-        "Delay": 4
-      }
-    ]
-  },
   "NIS": {
     "true": [
-      {
-        "ID": "rbxassetid://12630931924",
-        "Num": "GenT",
-        "Chi": "暫停服務",
-        "Eng": "NOT IN SERVICE",
-        "Delay": 4
-      }
+      { "ID": "rbxassetid://12630931924", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 },
+      { "ID": "rbxassetid://136614467363043", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 3 }
     ]
+  },
+  "GenT": {
+    "true": [
+      { "ID": "rbxassetid://12935107664", "Num": "", "Chi": "Genuine Transit", "Eng": "Move Beyond", "Delay": 5 }
+    ]
+  },
+  "32": {
+    "true": [
+      { "ID": "rbxassetid://87341546300220", "Num": "32", "Chi": "迎田", "Eng": "YING TIN", "Delay": 4 },
+      { "ID": "rbxassetid://117586941187983", "Num": "32", "Chi": "經:裕華苑", "Eng": "VIA: YUE WAH COURT", "Delay": 2.5 }
+    ],
+    "false": [
+      { "ID": "rbxassetid://71532609034102", "Num": "32", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+      { "ID": "rbxassetid://115754713346555", "Num": "32", "Chi": "經:富園", "Eng": "VIA: FU YUEN", "Delay": 2.5 }
+    ]
+  },
+  "32A": {
+    "true": [
+      { "ID": "rbxassetid://16900752069", "Num": "32ᴀ", "Chi": "海邊工業邨", "Eng": "WATERSIDE INDUSTRIAL ESTATE", "Delay": 4 },
+      { "ID": "rbxassetid://16900753375", "Num": "32ᴀ", "Chi": "經:裕華苑", "Eng": "VIA: YUE WAH COURT", "Delay": 2.5 }
+    ],
+    "false": [
+      { "ID": "rbxassetid://113377285227456", "Num": "32ᴀ", "Chi": "大園市中心", "Eng": "TAI YUEN CENTRAL", "Delay": 4 },
+      { "ID": "rbxassetid://137638280214922", "Num": "32ᴀ", "Chi": "經:欣園", "Eng": "VIA: YAN YUEN", "Delay": 2.5 }
+    ]
+  },
+  "35A": {
+    "true": [
+      { "ID": "rbxassetid://91644563061358", "Num": "35ᴀ", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+      { "ID": "rbxassetid://140622205018790", "Num": "35ᴀ", "Chi": "直達 > 大園北", "Eng": "DIRECT > TAI YUEN NORTH", "Delay": 2.5 }
+    ],
+    "false": [
+      { "ID": "rbxassetid://111590305939200", "Num": "35ᴀ", "Chi": "俊明庭", "Eng": "CHUN MING COURT", "Delay": 4 },
+      { "ID": "rbxassetid://86845617638835", "Num": "35ᴀ", "Chi": "俊明庭", "Eng": "CHUN MING COURT", "Delay": 2.5 }
+    ]
+  },
+  "35X": {
+    "true": [
+      { "ID": "rbxassetid://100002889748554", "Num": "35x", "Chi": "大園 景園街", "Eng": "TAI YUEN (KING YUEN STREET)", "Delay": 4 },
+      { "ID": "rbxassetid://99392098771072", "Num": "35x", "Chi": "大園 景園街", "Eng": "TAI YUEN (KING YUEN STREET)", "Delay": 2.5 },
+      { "ID": "rbxassetid://80571023838292", "Num": "35x", "Chi": "大園 景園街", "Eng": "TAI YUEN (KING YUEN STREET)", "Delay": 2.5 }
+    ],
+    "false": [
+      { "ID": "rbxassetid://79460929265218", "Num": "35x", "Chi": "俊豐園", "Eng": "CHARISMA GARDEN", "Delay": 4 },
+      { "ID": "rbxassetid://77408369057260", "Num": "35x", "Chi": "俊豐園", "Eng": "CHARISMA GARDEN", "Delay": 2.5 }
+    ]
+  },
+  "E500": {
+    "true": [ { "ID": "rbxassetid://13982491895", "Num": "", "Chi": "", "Eng": "", "Delay": 5 } ],
+    "false": [ { "ID": "rbxassetid://13982492329", "Num": "", "Chi": "", "Eng": "", "Delay": 5 } ]
   }
 }
