@@ -1,0 +1,40 @@
+{
+  "32": {
+    "true": [
+      {
+        "ID": "rbxassetid://87341546300220",
+        "Num": "32",
+        "Chi": "迎田",
+        "Eng": "YING TIN",
+        "Delay": 4
+      },
+      {
+        "ID": "rbxassetid://117586941187983",
+        "Num": "32",
+        "Chi": "經:裕華苑",
+        "Eng": "VIA: YUE WAH COURT",
+        "Delay": 2.5
+      }
+    ],
+    "false": [
+      {
+        "ID": "rbxassetid://71532609034102",
+        "Num": "32",
+        "Chi": "大園碼頭",
+        "Eng": "TAI YUEN PIER",
+        "Delay": 4
+      }
+    ]
+  },
+  "NIS": {
+    "true": [
+      {
+        "ID": "rbxassetid://12630931924",
+        "Num": "GenT",
+        "Chi": "暫停服務",
+        "Eng": "NOT IN SERVICE",
+        "Delay": 4
+      }
+    ]
+  }
+}
