@@ -1,164 +1,50 @@
 {
-  "bus_routes": [
-    {
-      "route": "32",
-      "directions": {
-        "true": {
-          "displays": [
-            { "id": "rbxassetid://87341546300220", "chi": "迎田", "eng": "YING TIN", "wait": 4 },
-            { "id": "rbxassetid://117586941187983", "chi": "經:裕華苑", "eng": "VIA: YUE WAH COURT", "wait": 2.5 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 4.4, "half": 2.2, "progress": "1/2" },
-            { "stage": 2, "full": 4.1, "half": 2.1, "progress": "2/2" }
-          ]
-        },
-        "false": {
-          "displays": [
-            { "id": "rbxassetid://71532609034102", "chi": "大園碼頭", "eng": "TAI YUEN PIER", "wait": 4 },
-            { "id": "rbxassetid://115754713346555", "chi": "經:富園", "eng": "VIA: FU YUEN", "wait": 2.5 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 4.4, "half": 2.2, "progress": "1/2" },
-            { "stage": 2, "full": 3.9, "half": 2.0, "progress": "2/2" }
-          ]
-        }
-      }
+  "32": {
+    "true": {
+      "Displays": [
+        { "ID": "rbxassetid://87341546300220", "Num": "32", "Chi": "迎田", "Eng": "YING TIN", "Delay": 4 },
+        { "ID": "rbxassetid://117586941187983", "Num": "32", "Chi": "經:裕華苑", "Eng": "VIA: YUE WAH COURT", "Delay": 2.5 }
+      ],
+      "Fares": {
+        "1": { "Full": "$4.4", "Half": "$2.2", "Para": "1/2" },
+        "2": { "Full": "$4.1", "Half": "$2.1", "Para": "2/2" }
+      },
+      "TotalStages": 2
     },
-    {
-      "route": "35A",
-      "directions": {
-        "true": {
-          "displays": [
-            { "id": "rbxassetid://91644563061358", "chi": "大園碼頭", "eng": "TAI YUEN PIER", "wait": 4 },
-            { "id": "rbxassetid://140622205018790", "chi": "直達 > 大園北", "eng": "DIRECT > TAI YUEN NORTH", "wait": 2.5 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 11.2, "half": 5.6, "progress": "1/3" },
-            { "stage": 2, "full": 7.8, "half": 3.9, "progress": "2/3" },
-            { "stage": 3, "full": 3.9, "half": 2.0, "progress": "3/3" }
-          ]
-        },
-        "false": {
-          "displays": [
-            { "id": "rbxassetid://111590305939200", "chi": "俊明庭", "eng": "CHUN MING COURT", "wait": 4 },
-            { "id": "rbxassetid://86845617638835", "chi": "俊明庭", "eng": "CHUN MING COURT", "wait": 2.5 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 11.2, "half": 5.6, "progress": "1/2" },
-            { "stage": 2, "full": 5.2, "half": 2.6, "progress": "2/2" }
-          ]
-        }
-      }
-    },
-    {
-      "route": "32A",
-      "directions": {
-        "true": {
-          "displays": [
-            { "id": "rbxassetid://16900752069", "chi": "海邊工業邨", "eng": "WATERSIDE INDUSTRIAL ESTATE", "wait": 4 },
-            { "id": "rbxassetid://16900753375", "chi": "經:裕華苑", "eng": "VIA: YUE WAH COURT", "wait": 2.5 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 4.4, "half": 2.2, "progress": "1/2" },
-            { "stage": 2, "full": 4.1, "half": 2.1, "progress": "2/2" }
-          ]
-        },
-        "false": {
-          "displays": [
-            { "id": "rbxassetid://113377285227456", "chi": "大園市中心", "eng": "TAI YUEN CENTRAL", "wait": 4 },
-            { "id": "rbxassetid://137638280214922", "chi": "經:欣園", "eng": "VIA: YAN YUEN", "wait": 2.5 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 4.4, "half": 2.2, "progress": "1/2" },
-            { "stage": 2, "full": 3.9, "half": 2.0, "progress": "2/2" }
-          ]
-        }
-      }
-    },
-    {
-      "route": "35D",
-      "directions": {
-        "true": {
-          "displays": [
-            { "id": "rbxassetid://82842558368614", "chi": "大園碼頭", "eng": "TAI YUEN PIER", "wait": 4 },
-            { "id": "rbxassetid://112690714334785", "chi": "直達 > 大園北", "eng": "DIRECT > TAI YUEN NORTH", "wait": 2.5 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 11.2, "half": 5.6, "progress": "1/3" },
-            { "stage": 2, "full": 7.8, "half": 3.9, "progress": "2/3" },
-            { "stage": 3, "full": 3.9, "half": 2.0, "progress": "3/3" }
-          ]
-        },
-        "false": {
-          "displays": [
-            { "id": "rbxassetid://125684528191252", "zh": "石永邨", "en": "SHEK WING ESTATE", "wait": 4 },
-            { "id": "rbxassetid://138695036870301", "zh": "直達 > 尚安", "en": "DIRECT > SHEUNG ON", "wait": 3 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 11.2, "half": 5.6, "progress": "1/2" },
-            { "stage": 2, "full": 5.2, "half": 2.6, "progress": "2/2" }
-          ]
-        }
-      }
-    },
-    {
-      "route": "42A",
-      "directions": {
-        "true": {
-          "displays": [
-            { "id": "rbxassetid://118550125553070", "chi": "石永邨", "eng": "SHEK WING ESTATE", "wait": 4 },
-            { "id": "rbxassetid://81639938347736", "chi": "石永邨", "eng": "SHEK WING ESTATE", "wait": 4 },
-            { "id": "rbxassetid://108167693947336", "chi": "石永邨", "eng": "SHEK WING ESTATE", "wait": 2.5 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 11.2, "half": 5.6, "progress": "1/3" },
-            { "stage": 2, "full": 8.5, "half": 4.3, "progress": "2/4" },
-            { "stage": 3, "full": 6.6, "half": 3.3, "progress": "3/4" },
-            { "stage": 4, "full": 5.2, "half": 2.6, "progress": "4/4" }
-          ]
-        },
-        "false": {
-          "displays": [
-            { "id": "rbxassetid://130995779569944", "chi": "裕華苑", "eng": "YUE WAH COURT", "wait": 4 },
-            { "id": "rbxassetid://127982008029219", "chi": "裕華苑", "eng": "YUE WAH COURT", "wait": 2.5 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 11.2, "half": 5.6, "progress": "1/3" },
-            { "stage": 2, "full": 7.8, "half": 3.9, "progress": "2/3" },
-            { "stage": 3, "full": 4.1, "half": 2.1, "progress": "3/3" }
-          ]
-        }
-      }
-    },
-    {
-      "route": "42AP",
-      "directions": {
-        "all": {
-          "displays": [
-            { "id": "rbxassetid://116764571794491", "chi": "只往 置富商貿區", "eng": "CHI FU COMMERCIAL AREA", "wait": 3 },
-            { "id": "rbxassetid://85133462637234", "chi": "只往 置富商貿區", "eng": "CHI FU COMMERCIAL AREA", "wait": 3 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 11.2, "half": 5.6, "progress": "1/3" },
-            { "stage": 2, "full": 6.6, "half": 3.3, "progress": "2/3" },
-            { "stage": 3, "full": 5.2, "half": 2.6, "progress": "3/3" }
-          ]
-        }
-      }
-    },
-    {
-      "route": "46R",
-      "directions": {
-        "both": {
-          "displays": [
-            { "id": "rbxassetid://92079695580434", "chi": "大園康園邨", "eng": "TAI YUEN (HONG YUEN ESTATE)", "wait": 0 }
-          ],
-          "fares": [
-            { "stage": 1, "full": 12.9, "half": 6.5, "progress": "1/1" }
-          ]
-        }
-      }
+    "false": {
+      "Displays": [
+        { "ID": "rbxassetid://71532609034102", "Num": "32", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+        { "ID": "rbxassetid://115754713346555", "Num": "32", "Chi": "經:富園", "Eng": "VIA: FU YUEN", "Delay": 2.5 }
+      ],
+      "Fares": {
+        "1": { "Full": "$4.4", "Half": "$2.2", "Para": "1/2" },
+        "2": { "Full": "$3.9", "Half": "$2.0", "Para": "2/2" }
+      },
+      "TotalStages": 2
     }
-  ]
+  },
+  "35A": {
+    "true": {
+      "Displays": [
+        { "ID": "rbxassetid://91644563061358", "Num": "35A", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+        { "ID": "rbxassetid://140622205018790", "Num": "35A", "Chi": "直達 > 大園北", "Eng": "DIRECT > TAI YUEN NORTH", "Delay": 2.5 }
+      ],
+      "Fares": {
+        "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/3" },
+        "2": { "Full": "$7.8", "Half": "$3.9", "Para": "2/3" },
+        "3": { "Full": "$3.9", "Half": "$2.0", "Para": "3/3" }
+      },
+      "TotalStages": 3
+    },
+    "false": {
+      "Displays": [
+        { "ID": "rbxassetid://111590305939200", "Num": "35A", "Chi": "俊明庭", "Eng": "CHUN MING COURT", "Delay": 4 }
+      ],
+      "Fares": {
+        "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/2" },
+        "2": { "Full": "$5.2", "Half": "$2.6", "Para": "2/2" }
+      },
+      "TotalStages": 2
+    }
+  }
 }
