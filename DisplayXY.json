@@ -21,7 +21,7 @@
     },
     "TotalStages": 2
   },
-  "35AY": {
+  "35AZ": {
     "Displays": [
       { "ID": "rbxassetid://91644563061358", "Num": "35ᴀ", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
       { "ID": "rbxassetid://140622205018790", "Num": "35ᴀ", "Chi": "特快 > 大園北", "Eng": "EXPRESS > TAI YUEN NORTH", "Delay": 2.5 }
@@ -33,7 +33,7 @@
     },
     "TotalStages": 3
   },
-  "35AZ": {
+  "35AY": {
     "Displays": [
       { "ID": "rbxassetid://111590305939200", "Num": "35ᴀ", "Chi": "俊明庭", "Eng": "CHUN MING COURT", "Delay": 4 },
       { "ID": "rbxassetid://86845617638835", "Num": "35ᴀ", "Chi": "特快 > 永泰", "Eng": "EXPRESS > WING TAI", "Delay": 2.5 }
@@ -44,7 +44,90 @@
     },
     "TotalStages": 2
   },
-  "73Y": {
+   "35DP": {
+    "Displays": [
+      { "ID": "rbxassetid://130074235762464", "Num": "35ᴅ", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+      { "ID": "rbxassetid://100453469458441", "Num": "35ᴅ", "Chi": "不經 富園", "Eng": "OMIT FU YUEN", "Delay": 2.5 },
+      { "ID": "rbxassetid://94176463717052", "Num": "35ᴅ", "Chi": "特快 > 大園北", "Eng": "EXPRESS > TAI YUEN NORTH", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/3" },
+      "2": { "Full": "$7.8", "Half": "$3.9", "Para": "2/3" },
+      "3": { "Full": "$3.9", "Half": "$2.0", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+     "35DZ": {
+    "Displays": [
+      { "ID": "rbxassetid://82842558368614", "Num": "35ᴅ", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+      { "ID": "rbxassetid://112690714334785", "Num": "35ᴅ", "Chi": "特快 > 大園北", "Eng": "EXPRESS > TAI YUEN NORTH", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/3" },
+      "2": { "Full": "$7.8", "Half": "$3.9", "Para": "2/3" },
+      "3": { "Full": "$3.9", "Half": "$2.0", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+  "35DY": {
+    "Displays": [
+      { "ID": "rbxassetid://125684528191252", "Num": "35ᴅ", "Chi": "石永邨", "Eng": "SHEK WING ESTATE", "Delay": 4 },
+      { "ID": "rbxassetid://138695036870301", "Num": "35ᴅ", "Chi": "直達 > 尚安", "Eng": "DIRECT > SHEUNG ON", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/2" },
+      "2": { "Full": "$5.2", "Half": "$2.6", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+     "35PZ": {
+    "Displays": [
+      { "ID": "rbxassetid://115500101695665", "Num": "35ᴘ", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+      { "ID": "rbxassetid://118893510736699", "Num": "35ᴘ", "Chi": "特快 > 大園北", "Eng": "EXPRESS > TAI YUEN NORTH", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/3" },
+      "2": { "Full": "$7.8", "Half": "$3.9", "Para": "2/3" },
+      "3": { "Full": "$3.9", "Half": "$2.0", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+  "35PY": {
+    "Displays": [
+      { "ID": "rbxassetid://130545077858772", "Num": "35ᴘ", "Chi": "石隧轉車站", "Eng": "SHEK WING TUNNEL BBI", "Delay": 3 },
+      { "ID": "rbxassetid://87309861611020", "Num": "35ᴘ", "Chi": "置富商貿區", "Eng": "CHI FU COMMERCIAL AREA", "Delay": 3.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/3" },
+      "2": { "Full": "$6.6", "Half": "$3.3", "Para": "2/3" },
+      "3": { "Full": "$5.2", "Half": "$2.6", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+       "35XZ": {
+    "Displays": [
+      { "ID": "rbxassetid://100002889748554", "Num": "35x", "Chi": "大園 景園街", "Eng": "TAI YUEN (KING YUEN STREET)", "Delay": 4 },
+      { "ID": "rbxassetid://99392098771072", "Num": "35x", "Chi": "直達 > 大園北", "Eng": "DIRECT > TAI YUEN NORTH", "Delay": 3 },
+    { "ID": "rbxassetid://80571023838292", "Num": "35x", "Chi": "大園 景園街", "Eng": "不經 石隧轉車站", "Delay": 2.5 }
+      ],
+    "Fares": {
+      "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/2" },
+      "2": { "Full": "$3.9", "Half": "$2.0", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+  "35XY": {
+    "Displays": [
+      { "ID": "rbxassetid://79460929265218", "Num": "35x", "Chi": "石永 俊豐園", "Eng": "SHEK WING (CHARISMA GARDEN)", "Delay": 4 },
+      { "ID": "rbxassetid://77408369057260", "Num": "35x", "Chi": "直達 > 石永", "Eng": "DIRECT > SHEK WING", "Delay": 3.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/2" },
+      "2": { "Full": "$5.2", "Half": "$2.6", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+  "73Z": {
     "Displays": [
       { "ID": "rbxassetid://132964792574109", "Num": "73", "Chi": "背沙邨", "Eng": "BUI SHA ESTATE", "Delay": 4 },
       { "ID": "rbxassetid://88776409346507", "Num": "73", "Chi": "經:雲石道,雲洛", "Eng": "VIA: WAN SHEK ROAD, WAN LOK", "Delay": 2.5 }
@@ -56,7 +139,7 @@
     },
     "TotalStages": 3
   },
-  "73Z": {
+  "73Y": {
     "Displays": [
       { "ID": "rbxassetid://119574314390152", "Num": "73", "Chi": "新港灣", "Eng": "SUN HARBOURVIEW", "Delay": 4 },
       { "ID": "rbxassetid://113346548600868", "Num": "73", "Chi": "經:雲石道,永泰", "Eng": "VIA: WAN SHEK ROAD, WING TAI", "Delay": 2.5 }
@@ -68,7 +151,7 @@
     },
     "TotalStages": 3
   },
-  "73DY": {
+  "73DZ": {
     "Displays": [
       { "ID": "rbxassetid://121232924530301", "Num": "73ᴅ", "Chi": "背沙 安善邨", "Eng": "BUI SHA (ON SHIN ESTATE)", "Delay": 4 },
       { "ID": "rbxassetid://91306528688548", "Num": "73ᴅ", "Chi": "經:背沙邨", "Eng": "VIA: BUI SHA ESTATE", "Delay": 3 }
@@ -79,7 +162,7 @@
     },
     "TotalStages": 2
   },
-  "73DZ": {
+  "73DY": {
     "Displays": [
       { "ID": "rbxassetid://117280496325368", "Num": "73ᴅ", "Chi": "石永邨", "Eng": "SHEK WING ESTATE", "Delay": 4 },
       { "ID": "rbxassetid://104070665071518", "Num": "73ᴅ", "Chi": "經:置富,南翔路", "Eng": "VIA: CHI FU, NAM CHEUNG ROAD", "Delay": 3.5 }
@@ -91,7 +174,7 @@
     },
     "TotalStages": 3
   },
-  "73EY": {
+  "73EZ": {
     "Displays": [
       { "ID": "rbxassetid://139078218407221", "Num": "73ᴇ", "Chi": "寶石 雲景邨", "Eng": "BO SHEK (WAN KING ESTATE)", "Delay": 4 },
       { "ID": "rbxassetid://109456312970333", "Num": "73ᴇ", "Chi": "經:寶石學校村", "Eng": "VIA: BO SHEK SCHOOL VILLAGE", "Delay": 2.5 }
@@ -102,7 +185,7 @@
     },
     "TotalStages": 2
   },
-  "73EZ": {
+  "73EY": {
     "Displays": [
       { "ID": "rbxassetid://88593300011339", "Num": "73ᴇ", "Chi": "石永 俊寶花園", "Eng": "SHEK WING (CHUN PO GARDEN)", "Delay": 4 },
       { "ID": "rbxassetid://115652289058745", "Num": "73ᴇ", "Chi": "經:永泰,俊明庭", "Eng": "VIA: WING TAI, CHUN MING COURT", "Delay": 2.5 }
@@ -114,14 +197,14 @@
     },
     "TotalStages": 3
   },
-  "73SY": {
+  "73SZ": {
     "Displays": [
       { "ID": "rbxassetid://83867810457925", "Num": "73ꜱ", "Chi": "背沙墳場", "Eng": "BUI SHA CEMETERY", "Delay": 4 }
     ],
     "Fares": { "1": { "Full": "$14.8", "Half": "$7.4", "Para": "1/1" } },
     "TotalStages": 1
   },
-  "73SZ": {
+  "73SY": {
     "Displays": [
       { "ID": "rbxassetid://122350737233152", "Num": "73ꜱ", "Chi": "石永邨", "Eng": "SHEK WING ESTATE", "Delay": 4 },
       { "ID": "rbxassetid://133908535998613", "Num": "73ꜱ", "Chi": "經:石隧轉車站", "Eng": "VIA: SHEK WING TUNNEL BBI", "Delay": 2.5 }
@@ -132,7 +215,7 @@
     },
     "TotalStages": 2
   },
-  "73XY": {
+  "73XZ": {
     "Displays": [
       { "ID": "rbxassetid://104102046572937", "Num": "73x", "Chi": "背沙 安善邨", "Eng": "BUI SHA (ON CHUNG COURT)", "Delay": 4 },
       { "ID": "rbxassetid://71819355939092", "Num": "73x", "Chi": "特快 > 背沙北", "Eng": "EXPRESS > BUI SHA NORTH", "Delay": 3 }
@@ -143,7 +226,7 @@
     },
     "TotalStages": 2
   },
-  "73XZ": {
+  "73XY": {
     "Displays": [
       { "ID": "rbxassetid://77456355010824", "Num": "73x", "Chi": "石永 俊寶花園", "Eng": "SHEK WING (CHUN PO GARDEN)", "Delay": 4 },
       { "ID": "rbxassetid://139286655979794", "Num": "73x", "Chi": "特快 > 永泰", "Eng": "EXPRESS > WING TAI", "Delay": 3 }
