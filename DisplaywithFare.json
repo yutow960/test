@@ -26,8 +26,8 @@
   "35A": {
     "true": {
       "Displays": [
-        { "ID": "rbxassetid://91644563061358", "Num": "35A", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
-        { "ID": "rbxassetid://140622205018790", "Num": "35A", "Chi": "直達 > 大園北", "Eng": "DIRECT > TAI YUEN NORTH", "Delay": 2.5 }
+        { "ID": "rbxassetid://91644563061358", "Num": "35ᴀ", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+        { "ID": "rbxassetid://140622205018790", "Num": "35ᴀ", "Chi": "特快 > 大園北", "Eng": "EXPRESS > TAI YUEN NORTH", "Delay": 2.5 }
       ],
       "Fares": {
         "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/3" },
@@ -38,13 +38,65 @@
     },
     "false": {
       "Displays": [
-        { "ID": "rbxassetid://111590305939200", "Num": "35A", "Chi": "俊明庭", "Eng": "CHUN MING COURT", "Delay": 4 }
+        { "ID": "rbxassetid://111590305939200", "Num": "35ᴀ", "Chi": "俊明庭", "Eng": "CHUN MING COURT", "Delay": 4 },
+       { "ID": "rbxassetid://86845617638835", "Num": "35ᴀ", "Chi": "特快 > 永泰", "Eng": "EXPRESS > WING TAI", "Delay": 2.5 }
       ],
       "Fares": {
         "1": { "Full": "$11.2", "Half": "$5.6", "Para": "1/2" },
         "2": { "Full": "$5.2", "Half": "$2.6", "Para": "2/2" }
       },
       "TotalStages": 2
+    }
+  },
+   "73": {
+    "true": {
+      "Displays": [
+        { "ID": "rbxassetid://132964792574109", "Num": "73", "Chi": "背沙邨", "Eng": "BUI SHA ESTATE", "Delay": 4 },
+        { "ID": "rbxassetid://88776409346507", "Num": "73", "Chi": "經:雲石道,雲洛", "Eng": "VIA: WAN SHEK ROAD, WAN LOK", "Delay": 2.5 }
+      ],
+      "Fares": {
+        "1": { "Full": "$9.3", "Half": "$4.7", "Para": "1/3" },
+        "2": { "Full": "$6.0", "Half": "$3.0", "Para": "2/3" },
+        "3": { "Full": "$4.7", "Half": "$2.4", "Para": "3/3" }
+      },
+      "TotalStages": 3
+    },
+    "false": {
+      "Displays": [
+        { "ID": "rbxassetid://119574314390152", "Num": "73", "Chi": "新港灣", "Eng": "SUN HARBOURVIEW", "Delay": 4 },
+       { "ID": "rbxassetid://113346548600868", "Num": "73", "Chi": "經:雲石道,永泰", "Eng": "VIA: WAN SHEK ROAD, WING TAI", "Delay": 2.5 }
+      ],
+      "Fares": {
+        "1": { "Full": "$9.3", "Half": "$4.7", "Para": "1/3" },
+        "2": { "Full": "$6.6", "Half": "$3.3", "Para": "2/3" },
+        "3": { "Full": "$5.2", "Half": "$2.6", "Para": "3/3" }
+      },
+      "TotalStages": 3
+    }
+  },
+     "73D": {
+    "true": {
+      "Displays": [
+        { "ID": "rbxassetid://121232924530301", "Num": "73ᴅ", "Chi": "背沙 安善邨", "Eng": "BUI SHA (ON SHIN ESTATE)", "Delay": 4 },
+        { "ID": "rbxassetid://91306528688548", "Num": "73ᴅ", "Chi": "經:背沙邨", "Eng": "VIA: BUI SHA ESTATE", "Delay": 2.5 }
+      ],
+      "Fares": {
+        "1": { "Full": "$9.9", "Half": "$5.0", "Para": "1/2" },
+        "2": { "Full": "$4.7", "Half": "$2.4", "Para": "2/2" }
+      },
+      "TotalStages": 2
+    },
+    "false": {
+      "Displays": [
+        { "ID": "rbxassetid://117280496325368", "Num": "73ᴅ", "Chi": "石永邨", "Eng": "SHEK WING ESTATE", "Delay": 4 },
+       { "ID": "rbxassetid://104070665071518", "Num": "73ᴅ", "Chi": "經:置富,南翔路", "Eng": "VIA: CHI FU, NAM CHEUNG ROAD", "Delay": 2.5 }
+      ],
+      "Fares": {
+        "1": { "Full": "$9.9", "Half": "$5.0", "Para": "1/3" },
+        "2": { "Full": "$6.6", "Half": "$3.3", "Para": "2/3" },
+        "3": { "Full": "$5.2", "Half": "$2.6", "Para": "3/3" }
+      },
+      "TotalStages": 3
     }
   }
 }
