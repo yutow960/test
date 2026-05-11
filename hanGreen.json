@@ -1,12 +1,29 @@
 {
   "routes": {
     "@": {
-      "display": { "num": "GenT", "chi": "暫停服務", "eng": "SORRY! NOT IN SERVICE" },
-      "assets": { "controller": [0], "front": [0], "rear": [18745615306], "longRear": [0] },
-      "fares": [ { "full": "$0.0", "half": "$0.0", "para": "1/1" } ]
+      "display": {
+        "num": "GenT",
+        "chi": "暫停服務",
+        "eng": "SORRY! NOT IN SERVICE",
+        "img": "rbxassetid://12630931924"
+      },
+      "assets": {
+        "controller": [0],
+        "front": [0],
+        "rear": [18745615306],
+        "longRear": [0]
+      },
+      "fares": [
+        { "full": "$0.0", "half": "$0.0", "para": "1/1" }
+      ]
     },
     "35AY": {
-      "display": { "num": "35A", "chi": "俊明庭", "eng": "CHUN MING COURT", "img": "rbxassetid://18694160123" },
+      "display": {
+        "num": "35A",
+        "chi": "俊明庭",
+        "eng": "CHUN MING COURT",
+        "img": "rbxassetid://18694160123"
+      },
       "assets": {
         "controller": [111590305939200, 86845617638835],
         "front": [111590305939200, 86845617638835],
@@ -19,9 +36,14 @@
       ]
     },
     "35AZ": {
-      "display": { "num": "35A", "chi": "大園碼頭", "eng": "TAI YUEN PIER", "img": "rbxassetid://13613085247" },
+      "display": {
+        "num": "35A",
+        "chi": "大園碼頭",
+        "eng": "TAI YUEN PIER",
+        "img": "rbxassetid://13613085247"
+      },
       "assets": {
-        "controller": [9164463061358, 140622205018790],
+        "controller": [91644563061358, 140622205018790],
         "front": [91644563061358, 140622205018790],
         "rear": [91644563061358],
         "longRear": [91644563061358]
@@ -33,8 +55,18 @@
       ]
     },
     "58RY": {
-      "display": { "num": "58R", "chi": "北貢", "eng": "PAK KUNG", "img": "rbxassetid://13613154121" },
-      "assets": { "controller": [77656587202289], "front": [77656587202289], "rear": [77656587202289], "longRear": [77656587202289] },
+      "display": {
+        "num": "58R",
+        "chi": "北貢",
+        "eng": "PAK KUNG",
+        "img": "rbxassetid://13613154121"
+      },
+      "assets": {
+        "controller": [77656587202289],
+        "front": [77656587202289],
+        "rear": [77656587202289],
+        "longRear": [77656587202289]
+      },
       "fares": [
         { "full": "$22.6", "half": "$11.3", "para": "1/4" },
         { "full": "$21.7", "half": "$10.9", "para": "2/4" },
@@ -43,7 +75,12 @@
       ]
     },
     "N258Z": {
-      "display": { "num": "N258", "chi": "星田 星匯", "eng": "STARFIELD (S. CITY)", "img": "rbxassetid://13613151488" },
+      "display": {
+        "num": "N258",
+        "chi": "星田 星匯",
+        "eng": "STARFIELD (S. CITY)",
+        "img": "rbxassetid://13613151488"
+      },
       "assets": {
         "controller": [79968276192436, 71871104747212],
         "front": [79968276192436, 71871104747212],
