@@ -2,97 +2,77 @@
   "routes": {
     "@": {
       "display": {
-        "num": "GenT",
-        "chi": "暫停服務",
-        "eng": "SORRY! NOT IN SERVICE",
-        "img": "rbxassetid://12630931924"
-      },
-      "assets": {
         "controller": [0],
-        "front": [0],
-        "rear": [18745615306],
-        "longRear": [0]
+        "sign1": [0],
+        "sign2": [18745615306],
+        "sign3": [0]
       },
-      "fares": [
-        { "full": "$0.0", "half": "$0.0", "para": "1/1" }
-      ]
+      "octopus": {
+        "icon": "rbxassetid://12630931924",
+        "route_no": "GenT",
+        "dest_chi": "暫停服務",
+        "dest_eng": "SORRY! NOT IN SERVICE",
+        "fares": {
+          "1": { "full": "$0.0", "half": "$0.0", "section": "1/1" }
+        }
+      }
     },
     "35AY": {
       "display": {
-        "num": "35A",
-        "chi": "俊明庭",
-        "eng": "CHUN MING COURT",
-        "img": "rbxassetid://18694160123"
-      },
-      "assets": {
         "controller": [111590305939200, 86845617638835],
-        "front": [111590305939200, 86845617638835],
-        "rear": [111590305939200],
-        "longRear": [111590305939200]
+        "sign1": [111590305939200, 86845617638835],
+        "sign2": [111590305939200],
+        "sign3": [111590305939200]
       },
-      "fares": [
-        { "full": "$11.2", "half": "$5.6", "para": "1/2" },
-        { "full": "$5.2", "half": "$2.6", "para": "2/2" }
-      ]
+      "octopus": {
+        "icon": "rbxassetid://18694160123",
+        "route_no": "35ᴀ",
+        "dest_chi": "俊明庭",
+        "dest_eng": "CHUN MING COURT",
+        "fares": {
+          "1": { "full": "$11.2", "half": "$5.6", "section": "1/2" },
+          "2": { "full": "$5.2", "half": "$2.6", "section": "2/2" }
+        }
+      }
     },
     "35AZ": {
       "display": {
-        "num": "35A",
-        "chi": "大園碼頭",
-        "eng": "TAI YUEN PIER",
-        "img": "rbxassetid://13613085247"
+        "controller": [9164463061358, 140622205018790],
+        "sign1": [91644563061358, 140622205018790],
+        "sign2": [91644563061358],
+        "sign3": [91644563061358]
       },
-      "assets": {
-        "controller": [91644563061358, 140622205018790],
-        "front": [91644563061358, 140622205018790],
-        "rear": [91644563061358],
-        "longRear": [91644563061358]
-      },
-      "fares": [
-        { "full": "$11.2", "half": "$5.6", "para": "1/3" },
-        { "full": "$7.8", "half": "$3.9", "para": "2/3" },
-        { "full": "$3.9", "half": "$2.0", "para": "3/3" }
-      ]
+      "octopus": {
+        "icon": "rbxassetid://13613085247",
+        "route_no": "35ᴀ",
+        "dest_chi": "大園碼頭",
+        "dest_eng": "TAI YUEN PIER",
+        "fares": {
+          "1": { "full": "$11.2", "half": "$5.6", "section": "1/3" },
+          "2": { "full": "$7.8", "half": "$3.9", "section": "2/3" },
+          "3": { "full": "$3.9", "half": "$2.0", "section": "3/3" }
+        }
+      }
     },
     "58RY": {
       "display": {
-        "num": "58R",
-        "chi": "北貢",
-        "eng": "PAK KUNG",
-        "img": "rbxassetid://13613154121"
-      },
-      "assets": {
         "controller": [77656587202289],
-        "front": [77656587202289],
-        "rear": [77656587202289],
-        "longRear": [77656587202289]
+        "sign1": [77656587202289],
+        "sign2": [77656587202289],
+        "sign3": [77656587202289]
       },
-      "fares": [
-        { "full": "$22.6", "half": "$11.3", "para": "1/4" },
-        { "full": "$21.7", "half": "$10.9", "para": "2/4" },
-        { "full": "$19.5", "half": "$9.8", "para": "3/4" },
-        { "full": "$10.5", "half": "$5.3", "para": "4/4" }
-      ]
-    },
-    "N258Z": {
-      "display": {
-        "num": "N258",
-        "chi": "星田 星匯",
-        "eng": "STARFIELD (S. CITY)",
-        "img": "rbxassetid://13613151488"
-      },
-      "assets": {
-        "controller": [79968276192436, 71871104747212],
-        "front": [79968276192436, 71871104747212],
-        "rear": [79968276192436],
-        "longRear": [79968276192436]
-      },
-      "fares": [
-        { "full": "$21.4", "half": "$10.7", "para": "1/4" },
-        { "full": "$14.9", "half": "$7.5", "para": "2/4" },
-        { "full": "$8.6", "half": "$4.3", "para": "3/4" },
-        { "full": "$8.1", "half": "$4.1", "para": "4/4" }
-      ]
+      "octopus": {
+        "icon": "rbxassetid://13613154121",
+        "route_no": "58ʀ",
+        "dest_chi": "北貢",
+        "dest_eng": "PAK KUNG",
+        "fares": {
+          "1": { "full": "$22.6", "half": "$11.3", "section": "1/4" },
+          "2": { "full": "$21.7", "half": "$10.9", "section": "2/4" },
+          "3": { "full": "$19.5", "half": "$9.8", "section": "3/4" },
+          "4": { "full": "$10.5", "half": "$5.3", "section": "4/4" }
+        }
+      }
     }
   }
 }
