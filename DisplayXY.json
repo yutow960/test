@@ -585,5 +585,77 @@
       "2": { "Full": "$4.8", "Half": "$2.4", "Para": "2/2" }
     },
     "TotalStages": 2
+  },
+       "N35Y": {
+    "Displays": [
+      { "ID": "rbxassetid://72354527143782", "Num": "N35", "Chi": "尚安 尚頤邨北", "Eng": "SHEUNG ON SHEUNG YEE ESTATE (NORTH)", "Delay": 4 },
+        { "ID": "rbxassetid://132577966812854", "Num": "N35", "Chi": "經:雲石道,石永", "Eng": "VIA: WAN SHEK ROAD, SHEK WING", "Delay": 2.5 }
+      ],
+    "Fares": {
+       "1": { "Full": "$14.0", "Half": "$5.6", "Para": "1/3" },
+          "2": { "Full": "$8.5", "Half": "$4.3", "Para": "2/3" },
+          "3": { "Full": "$7.0", "Half": "$3.5", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+  "N35Z": {
+    "Displays": [
+      { "ID": "rbxassetid://100844916969423", "Num": "N35", "Chi": "大園市中心", "Eng": "TAI YUEN CENTRAL", "Delay": 4 },
+        { "ID": "rbxassetid://129795963863373", "Num": "N35", "Chi": "經:迎田,欣園", "Eng": "VIA: YING TIN, YAN YUEN", "Delay": 2.5 }
+    ],
+    "Fares": {
+         "1": { "Full": "$14.0", "Half": "$7.0", "Para": "1/3" },
+          "2": { "Full": "$10.1", "Half": "$5.1", "Para": "2/3" },
+          "3": { "Full": "$5.7", "Half": "$2.9", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+       "N35XY": {
+    "Displays": [
+      { "ID": "rbxassetid://70680254706024", "Num": "N35x", "Chi": "石永 俊寶花園", "Eng": "SHEK WING (CHUN PO GARDEN)", "Delay": 4 },
+        { "ID": "rbxassetid://122891354734111", "Num": "N35x", "Chi": "直達 > 尚安", "Eng": "DIRECT > SHEUNG ON", "Delay": 2.5 }
+      ],
+    "Fares": {
+       "1": { "Full": "$14.0", "Half": "$5.6", "Para": "1/2" },
+          "2": { "Full": "$7.0", "Half": "$3.5", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+  "N35XZ": {
+    "Displays": [
+      { "ID": "rbxassetid://85511869611507", "Num": "N35x", "Chi": "大園市中心", "Eng": "TAI YUEN CENTRAL", "Delay": 4 },
+        { "ID": "rbxassetid://96087387826561", "Num": "N35x", "Chi": "直達 > 大園北", "Eng": "DIRECT > TAI YUEN NORTH", "Delay": 2.5 }
+    ],
+    "Fares": {
+         "1": { "Full": "$14.0", "Half": "$7.0", "Para": "1/3" },
+          "2": { "Full": "$10.1", "Half": "$5.1", "Para": "2/3" },
+          "3": { "Full": "$5.7", "Half": "$2.9", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+       "N258Y": {
+    "Displays": [
+      { "ID": "rbxassetid://72782448321463", "Num": "N258", "Chi": "尚安 尚頤邨北", "Eng": "SHEUNG ON SHEUNG YEE ESTATE (NORTH)", "Delay": 4 },
+        { "ID": "rbxassetid://82425730133357", "Num": "N258", "Chi": "經:石安,石永南", "Eng": "VIA: SHEK ON, SHEK WING SOUTH", "Delay": 2.5 }
+      ],
+    "Fares": {
+       "1": { "Full": "$21.4", "Half": "$10.7", "Para": "1/3" },
+       "2": { "Full": "$14.0", "Half": "$7.0", "Para": "2/3" },
+       "3": { "Full": "$7.0", "Half": "$3.5", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+  "N258Z": {
+    "Displays": [
+      { "ID": "rbxassetid://79968276192436", "Num": "N258", "Chi": "星田 星匯", "Eng": "STARFIELD (S. CITY)", "Delay": 4 },
+        { "ID": "rbxassetid://71871104747212", "Num": "N258", "Chi": "經:嘉門", "Eng": "VIA: KA MUN", "Delay": 2.5 }
+    ],
+    "Fares": {
+        "1": { "Full": "$21.4", "Half": "$10.7", "Para": "1/4" },
+        "2": { "Full": "$14.9", "Half": "$7.5", "Para": "2/4" },
+        "3": { "Full": "$8.6", "Half": "$4.3", "Para": "3/4" },
+        "4": { "Full": "$6.1", "Half": "$3.1", "Para": "4/4" }
+    },
+    "TotalStages": 4
   }
 }
