@@ -915,7 +915,7 @@
   "501XZ": {
     "Displays": [
       { "ID": "rbxassetid://119266006394693", "Num": "501x", "Chi": "尚安碼頭", "Eng": "SHEUNG ON PIER", "Delay": 4 },
-      { "ID": "rbxassetid://86405276006042", "Num": "501x", "Chi": "經:俊明庭,尚頤", "Eng": "VIA: CHUN MING COURT, SHEUNG YEE", "Delay": 3 }
+      { "ID": "rbxassetid://86405276006042", "Num": "501x", "Chi": "特快 > 尚翠", "Eng": "EXPRESS > SHEXUNG CHUI", "Delay": 3 }
     ],
     "Fares": {
           "1": { "Full": "$6.2", "Half": "$3.1", "Para": "1/3" }, 
