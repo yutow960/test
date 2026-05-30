@@ -1174,7 +1174,7 @@
     },
     "TotalStages": 1
   },
-    "Data": {
+    "DATA": {
     "Displays": [
        { "ID": "rbxassetid://13943539427", "Num": "", "Chi": "VERSION 30/5/2026", "Eng": "2.6051TJ", "Delay": 4 }
     ],
