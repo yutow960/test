@@ -1151,7 +1151,7 @@
     "Displays": [
       { "ID": "rbxassetid://89174944648703", "Num": "37", "Chi": "背沙 安頌", "Eng": "BUI SHA (ON CHUNG)", "Delay": 4 },
    { "ID": "rbxassetid://15059467017", "Num": "37", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
-   { "ID": "rbxassetid://113273845616333", "Num": "37", "Chi": "經:"背沙邨", "Eng": "VIA: BUI SHA ESTATE", "Delay": 2.5 }
+   { "ID": "rbxassetid://113273845616333", "Num": "37", "Chi": "經:背沙邨", "Eng": "VIA: BUI SHA ESTATE", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$8.3", "Half": "$4.2", "Para": "1/2" },
@@ -1176,7 +1176,7 @@
     "Displays": [
       { "ID": "rbxassetid://122401925554528", "Num": "37x", "Chi": "背沙 沐恩街", "Eng": "BUI SHA (MUK YAN STREET)", "Delay": 4 },
    { "ID": "rbxassetid://119080406835056", "Num": "37x", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
-   { "ID": "rbxassetid://118419258333600", "Num": "37x", "Chi": "經:"背沙邨", "Eng": "VIA: BUI SHA ESTATE", "Delay": 2.5 }
+   { "ID": "rbxassetid://118419258333600", "Num": "37x", "Chi": "經:背沙邨", "Eng": "VIA: BUI SHA ESTATE", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$8.3", "Half": "$4.2", "Para": "1/2" },
@@ -1188,7 +1188,7 @@
     "Displays": [
       { "ID": "rbxassetid://13950711544", "Num": "37x", "Chi": "大園市中心", "Eng": "TAI YUEN CENTRAL", "Delay": 4 },
    { "ID": "rbxassetid://13950712283", "Num": "37x", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
-   { "ID": "rbxassetid://13950711891", "Num": "37x", "Chi": "經:"大園北", "Eng": "VIA: TAI YUEN NORTH", "Delay": 2.5 }
+   { "ID": "rbxassetid://13950711891", "Num": "37x", "Chi": "經:大園北", "Eng": "VIA: TAI YUEN NORTH", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$8.3", "Half": "$4.2", "Para": "1/3" },
