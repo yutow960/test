@@ -1197,6 +1197,100 @@
     },
     "TotalStages": 3
   },
+   "53Z": {
+    "Displays": [
+      { "ID": "rbxassetid://15059470698", "Num": "53", "Chi": "星田 星匯", "Eng": "STARFIELD (S. CITY)", "Delay": 4 },
+   { "ID": "rbxassetid://15059469451", "Num": "53", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
+   { "ID": "rbxassetid://15059471509", "Num": "53", "Chi": "經:嘉門市中心", "Eng": "VIA: KA MUN CENTRAL", "Delay": 2.5 }
+    ],
+    "Fares": {
+     "1": { "Full": "$10.3", "Half": "$5.2", "Para": "1/3" },
+  "2": { "Full": "$6.7", "Half": "$3.4", "Para": "2/3" },
+       "3": { "Full": "$5.6", "Half": "$2.8", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+   "53Y": {
+    "Displays": [
+      { "ID": "rbxassetid://93175246964768", "Num": "53", "Chi": "寶石 雲安", "Eng": "BO SHEK (WAN ON)", "Delay": 4 },
+   { "ID": "rbxassetid://15059469451", "Num": "53", "Chi": "經:寶石學校村", "Eng": "VIA: BO SHEK SCHOOL VILLAGE", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$10.3", "Half": "$5.2", "Para": "1/4" },
+        "2": { "Full": "$9.7", "Half": "$4.9", "Para": "2/4" },
+  "3": { "Full": "$7.8", "Half": "$3.9", "Para": "3/4" },
+  "4": { "Full": "$3.9", "Half": "$2.0", "Para": "4/4" }
+    },
+    "TotalStages": 4
+  },
+     "53R": {
+    "Displays": [
+      { "ID": "rbxassetid://15059470698", "Num": "53", "Chi": "星田 星匯", "Eng": "STARFIELD (S. CITY)", "Delay": 4 },
+   { "ID": "rbxassetid://15059469451", "Num": "53", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
+   { "ID": "rbxassetid://15059471509", "Num": "53", "Chi": "經:嘉門市中心", "Eng": "VIA: KA MUN CENTRAL", "Delay": 2.5 },
+       { "ID": "rbxassetid://15059473098", "Num": "53", "Chi": "經:星田文化區", "Eng": "VIA: STARFIELD CULTURAL AREA", "Delay": 2.5 }
+    ],
+    "Fares": {
+     "1": { "Full": "$10.3", "Half": "$5.2", "Para": "1/3" },
+  "2": { "Full": "$6.7", "Half": "$3.4", "Para": "2/3" },
+       "3": { "Full": "$5.6", "Half": "$2.8", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+     "55Z": {
+    "Displays": [
+   { "ID": "rbxassetid://124272967251747", "Num": "55", "Chi": "嘉門 嘉耀", "Eng": "KA MUN (KA YIU)", "Delay": 4 },
+   { "ID": "rbxassetid://13951237762", "Num": "55", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
+   { "ID": "rbxassetid://18232453706", "Num": "55", "Chi": "經:嘉門市中心", "Eng": "VIA: KA MUN CENTRAL", "Delay": 2.5 }
+    ],
+    "Fares": {
+     "1": { "Full": "$11.1", "Half": "$6.1", "Para": "1/3" },
+     "2": { "Full": "$9.7", "Half": "$4.9", "Para": "2/3" },
+     "3": { "Full": "$4.8", "Half": "$2.4", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+   "55Y": {
+    "Displays": [
+   { "ID": "rbxassetid://119742153029177", "Num": "55", "Chi": "背沙 澄天匯", "Eng": "BUI SHA (VIBRANT AZURE)", "Delay": 3 },
+         { "ID": "rbxassetid://112873846355332", "Num": "55", "Chi": "背沙 澄天匯", "Eng": "BUI SHA (VIBRANT AZURE)", "Delay": 4 },
+         { "ID": "rbxassetid://13951237762", "Num": "55", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
+   { "ID": "rbxassetid://127358772087032", "Num": "55", "Chi": "經:雲石路,背沙東", "Eng": "VIA: WAN SHEK ROAD, BUI SHA EAST", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$11.1", "Half": "$6.1", "Para": "1/4" },
+      "2": { "Full": "$8.3", "Half": "$4.2", "Para": "2/4" },
+      "3": { "Full": "$6.2", "Half": "$3.1", "Para": "3/4" },
+      "4": { "Full": "$4.7", "Half": "$2.4", "Para": "4/4" }
+    },
+    "TotalStages": 4
+  },
+     "55P": {
+    "Displays": [
+   { "ID": "rbxassetid://103898215556786", "Num": "55", "Chi": "背沙 澄天匯", "Eng": "BUI SHA (VIBRANT AZURE)", "Delay": 3 },
+   { "ID": "rbxassetid://132145819429697", "Num": "55", "Chi": "直達 > 背沙東", "Eng": "DIRECT > BUI SHA EAST", "Delay": 2.5 },
+   { "ID": "rbxassetid://108790153658466", "Num": "55", "Chi": "不經 雲石道", "Eng": "OMIT WAN SHEK ROAD", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$11.1", "Half": "$6.1", "Para": "1/3" },
+      "2": { "Full": "$8.3", "Half": "$4.2", "Para": "2/3" },
+      "3": { "Full": "$4.7", "Half": "$2.4", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+       "55S": {
+    "Displays": [
+   { "ID": "rbxassetid://84320773984099", "Num": "55", "Chi": "背沙 澄天匯", "Eng": "BUI SHA (VIBRANT AZURE)", "Delay": 3 },
+   { "ID": "rbxassetid://111664708219095", "Num": "55", "Chi": "背沙體育園", "Eng": "BUI SHA SPORTS PARK", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$11.1", "Half": "$6.1", "Para": "1/4" },
+      "2": { "Full": "$8.3", "Half": "$4.2", "Para": "2/4" },
+      "3": { "Full": "$6.2", "Half": "$3.1", "Para": "3/4" },
+      "4": { "Full": "$4.7", "Half": "$2.4", "Para": "4/4" }
+    },
+    "TotalStages": 4
+  },
    "NIS": {
     "Displays": [
       { "ID": "rbxassetid://12630931924", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 },
