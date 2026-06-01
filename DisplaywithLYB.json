@@ -1244,7 +1244,7 @@
    { "ID": "rbxassetid://18232453706", "Num": "55", "Chi": "經:嘉門市中心", "Eng": "VIA: KA MUN CENTRAL", "Delay": 2.5 }
     ],
     "Fares": {
-     "1": { "Full": "$11.1", "Half": "$6.1", "Para": "1/3" },
+     "1": { "Full": "$11.1", "Half": "$5.6", "Para": "1/3" },
      "2": { "Full": "$9.7", "Half": "$4.9", "Para": "2/3" },
      "3": { "Full": "$4.8", "Half": "$2.4", "Para": "3/3" }
     },
@@ -1258,7 +1258,7 @@
    { "ID": "rbxassetid://127358772087032", "Num": "55", "Chi": "經:雲石路,背沙東", "Eng": "VIA: WAN SHEK ROAD, BUI SHA EAST", "Delay": 2.5 }
     ],
     "Fares": {
-      "1": { "Full": "$11.1", "Half": "$6.1", "Para": "1/4" },
+      "1": { "Full": "$11.1", "Half": "$5.6", "Para": "1/4" },
       "2": { "Full": "$8.3", "Half": "$4.2", "Para": "2/4" },
       "3": { "Full": "$6.2", "Half": "$3.1", "Para": "3/4" },
       "4": { "Full": "$4.7", "Half": "$2.4", "Para": "4/4" }
@@ -1272,7 +1272,7 @@
    { "ID": "rbxassetid://108790153658466", "Num": "55", "Chi": "不經 雲石道", "Eng": "OMIT WAN SHEK ROAD", "Delay": 2.5 }
     ],
     "Fares": {
-      "1": { "Full": "$11.1", "Half": "$6.1", "Para": "1/3" },
+      "1": { "Full": "$11.1", "Half": "$5.6", "Para": "1/3" },
       "2": { "Full": "$8.3", "Half": "$4.2", "Para": "2/3" },
       "3": { "Full": "$4.7", "Half": "$2.4", "Para": "3/3" }
     },
@@ -1284,12 +1284,261 @@
    { "ID": "rbxassetid://111664708219095", "Num": "55", "Chi": "背沙體育園", "Eng": "BUI SHA SPORTS PARK", "Delay": 2.5 }
     ],
     "Fares": {
-      "1": { "Full": "$11.1", "Half": "$6.1", "Para": "1/4" },
+      "1": { "Full": "$11.1", "Half": "$5.6", "Para": "1/4" },
       "2": { "Full": "$8.3", "Half": "$4.2", "Para": "2/4" },
       "3": { "Full": "$6.2", "Half": "$3.1", "Para": "3/4" },
       "4": { "Full": "$4.7", "Half": "$2.4", "Para": "4/4" }
     },
     "TotalStages": 4
+  },
+       "55BZ": {
+    "Displays": [
+   { "ID": "rbxassetid://13951242066", "Num": "55ʙ", "Chi": "星田科創園", "Eng": "STARFIELD (SINNO PARK)", "Delay": 4 },
+   { "ID": "rbxassetid://13951237762", "Num": "55ʙ", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 }
+    ],
+    "Fares": {
+     "1": { "Full": "$12.1", "Half": "$6.1", "Para": "1/2" },
+     "2": { "Full": "$10.7", "Half": "$5.4", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+   "55BY": {
+    "Displays": [
+   { "ID": "rbxassetid://81463034026415", "Num": "55ʙ", "Chi": "背沙 安善", "Eng": "BUI SHA (ON SHIN)", "Delay": 3 },
+         { "ID": "rbxassetid://105153258055772", "Num": "55ʙ", "Chi": "直達 > 安逸,安頌", "Eng": "DIRECT > ON YAT, ON CHUNG", "Delay": 4 },
+         { "ID": "rbxassetid://94743207727621", "Num": "55ʙ", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
+   { "ID": "rbxassetid://135362573092379", "Num": "55ʙ", "Chi": "經:寶雲,雲洛", "Eng": "VIA: PO WAN, WAN LOK", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$12.1", "Half": "$6.1", "Para": "1/3" },
+      "2": { "Full": "$8.3", "Half": "$4.2", "Para": "2/3" },
+      "3": { "Full": "$4.7", "Half": "$2.4", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+      "55DZ": {
+    "Displays": [
+   { "ID": "rbxassetid://13951235470", "Num": "55ᴅ", "Chi": "星田 星匯", "Eng": "STARFIELD (S. CITY)", "Delay": 4 },
+   { "ID": "rbxassetid://13951236967", "Num": "55ᴅ", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
+   { "ID": "rbxassetid://13951235826", "Num": "55ᴅ", "Chi": "直達 > 科創園", "Eng": "DIRECT > SINNO PARK", "Delay": 2.5 }
+    ],
+    "Fares": {
+     "1": { "Full": "$12.1", "Half": "$6.1", "Para": "1/3" },
+     "2": { "Full": "$10.7", "Half": "$5.4", "Para": "2/3" },
+     "3": { "Full": "$5.6", "Half": "$2.8", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+   "55DY": {
+    "Displays": [
+   { "ID": "rbxassetid://128433667463685", "Num": "55ᴅ", "Chi": "背沙 雲洛", "Eng": "BUI SHA (WAN LOK)", "Delay": 3 },
+         { "ID": "rbxassetid://92977821044114", "Num": "55ᴅ", "Chi": "特快 > 背沙邨", "Eng": "EXPRESS > BUI SHA ESTATE", "Delay": 4 },
+         { "ID": "rbxassetid://120735045479924", "Num": "55ᴅ", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$12.1", "Half": "$6.1", "Para": "1/3" },
+      "2": { "Full": "$8.3", "Half": "$4.2", "Para": "2/3" },
+      "3": { "Full": "$4.7", "Half": "$2.4", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+       "55DS": {
+    "Displays": [
+   { "ID": "rbxassetid://128101651517010", "Num": "55ᴅ", "Chi": "只往 星田科創園", "Eng": "STARFIELD (SINNO PARK)", "Delay": 4 },
+   { "ID": "rbxassetid://135580105703661", "Num": "55ᴅ", "Chi": "只往 星田科創園", "Eng": "不經 大園轉車站", "Delay": 2.5 }
+    ],
+    "Fares": {
+     "1": { "Full": "$12.1", "Half": "$6.1", "Para": "1/3" },
+     "2": { "Full": "$10.7", "Half": "$5.4", "Para": "2/3" },
+     "3": { "Full": "$5.6", "Half": "$2.8", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+   "55DP": {
+    "Displays": [
+   { "ID": "rbxassetid://92788411704275", "Num": "55ᴅ", "Chi": "只往 背沙安頌", "Eng": "BUI SHA (ON CHUNG)", "Delay": 3 },
+         { "ID": "rbxassetid://91590610969706", "Num": "55ᴅ", "Chi": "直達 > 背沙邨", "Eng": "DIRECT > BUI SHA ESTATE", "Delay": 4 },
+         { "ID": "rbxassetid://102474110047829", "Num": "55ᴅ", "Chi": "只往 背沙安頌", "Eng": "不經 大園轉車站", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$12.1", "Half": "$6.1", "Para": "1/3" },
+      "2": { "Full": "$8.3", "Half": "$4.2", "Para": "2/3" },
+      "3": { "Full": "$4.7", "Half": "$2.4", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+      "55SZ": {
+    "Displays": [
+   { "ID": "rbxassetid://15059452538", "Num": "55s", "Chi": "星田 星匯", "Eng": "STARFIELD (S. CITY)", "Delay": 4 },
+   { "ID": "rbxassetid://15059452538", "Num": "55s", "Chi": "經:嘉門市中心", "Eng": "VIA: KA MUN CENTRAL", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$15.8", "Half": "$7.9", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+   "55SY": {
+    "Displays": [
+   { "ID": "rbxassetid://15059453438", "Num": "55s", "Chi": "背沙墳場", "Eng": "BUI SHA CEMETERY", "Delay": 3 }
+    ],
+    "Fares": {
+      "1": { "Full": "$15.8", "Half": "$7.9", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+  "62S": {
+    "Displays": [
+   { "ID": "rbxassetid://85651089359188", "Num": "62", "Chi": "只往 嘉門市中心", "Eng": "KA MUN CENTRAL", "Delay": 3 },
+   { "ID": "rbxassetid://125821336319722", "Num": "62", "Chi": "只往 嘉門市中心", "Eng": "KA MUN CENTRAL", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$4.8", "Half": "$2.4", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+        "62Y": {
+    "Displays": [
+   { "ID": "rbxassetid://140461850510639", "Num": "62", "Chi": "嘉門碼頭", "Eng": "KA MUN PIER", "Delay": 4 },
+   { "ID": "rbxassetid://129968086362256", "Num": "62", "Chi": "經:嘉門市中心", "Eng": "VIA: KA MUN CENTRAL", "Delay": 2.5 }
+    ],
+    "Fares": {
+    "1": { "Full": "$4.8", "Half": "$2.4", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+   "62Z": {
+    "Displays": [
+   { "ID": "rbxassetid://73339734924020", "Num": "62", "Chi": "嘉達 及 嘉善", "Eng": "KA TAT & KA SHIN", "Delay": 3 },
+   { "ID": "rbxassetid://106735517022462", "Num": "62", "Chi": "經:嘉門市中心", "Eng": "VIA: KA MUN CENTRAL", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$4.8", "Half": "$2.4", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+   "71AS": {
+    "Displays": [
+   { "ID": "rbxassetid://15059449295", "Num": "71ᴀ", "Chi": "只往 安頌苑", "Eng": "ON CHUNG COURT", "Delay": 3 },
+   { "ID": "rbxassetid://15059451529", "Num": "71ᴀ", "Chi": "只往 安頌苑", "Eng": "ON CHUNG COURT", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$5.2", "Half": "$2.6", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+        "71AY": {
+    "Displays": [
+   { "ID": "rbxassetid://139963933262526", "Num": "71ᴀ", "Chi": "安頌 及 安盈", "Eng": "ON CHUNG & ON YING", "Delay": 4 },
+   { "ID": "rbxassetid://127674785950959", "Num": "71ᴀ", "Chi": "經:雲石道", "Eng": "VIA: WAN SHEK ROAD", "Delay": 2.5 }
+    ],
+    "Fares": {
+       "1": { "Full": "$5.2", "Half": "$2.6", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+   "71AZ": {
+    "Displays": [
+   { "ID": "rbxassetid://17441545977", "Num": "71ᴀ", "Chi": "雲安邨", "Eng": "WAN ON ESTATE", "Delay": 3 },
+   { "ID": "rbxassetid://17441546491", "Num": "71ᴀ", "Chi": "經:天雲山", "Eng": "VIA: TIN WAN SHAN", "Delay": 2.5 }
+    ],
+    "Fares": {
+       "1": { "Full": "$5.2", "Half": "$2.6", "Para": "1/2" },
+         "2": { "Full": "$3.5", "Half": "$1.8", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },  
+  "237AP": {
+    "Displays": [
+      { "ID": "rbxassetid://103412838042193", "Num": "237ᴀ", "Chi": "背沙 澄天匯", "Eng": "BUI SHA (VIBRANT AZURE)", "Delay": 4 },
+   { "ID": "rbxassetid://100549058057795", "Num": "237ᴀ", "Chi": "背沙體育園", "Eng": "BUI SHA SPORTS PARK", "Delay": 2.5 },
+   { "ID": "rbxassetid://114582742420500", "Num": "237ᴀ", "Chi": "經:寶雲,背沙東", "Eng": "VIA: PO WAN, BUI SHA EAST", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$8.3", "Half": "$4.2", "Para": "1/2" },
+  "2": { "Full": "$4.7", "Half": "$2.4", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+    "237AY": {
+    "Displays": [
+      { "ID": "rbxassetid://131183768286918", "Num": "237ᴀ", "Chi": "背沙 澄天匯", "Eng": "BUI SHA (VIBRANT AZURE)", "Delay": 4 },
+   { "ID": "rbxassetid://136592317644538", "Num": "237ᴀ", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
+   { "ID": "rbxassetid://75467768780106", "Num": "237ᴀ", "Chi": "經:寶雲,背沙東", "Eng": "VIA: PO WAN, BUI SHA EAST", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$8.3", "Half": "$4.2", "Para": "1/2" },
+  "2": { "Full": "$4.7", "Half": "$2.4", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+   "237AZ": {
+    "Displays": [
+      { "ID": "rbxassetid://13951184395", "Num": "237ᴀ", "Chi": "大園市中心", "Eng": "TAI YUEN CENTRAL", "Delay": 4 },
+   { "ID": "rbxassetid://13951186739", "Num": "237ᴀ", "Chi": "經:大園轉車站", "Eng": "VIA: TAI YUEN HIGHWAY BBI", "Delay": 2.5 },
+   { "ID": "rbxassetid://13951185589", "Num": "237ᴀ", "Chi": "經:大園南", "Eng": "VIA: TAI YUEN SOUTH", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$8.3", "Half": "$4.2", "Para": "1/3" },
+  "2": { "Full": "$7.8", "Half": "$3.9", "Para": "2/3" },
+  "3": { "Full": "$3.9", "Half": "$2.0", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+  "271S": {
+    "Displays": [
+   { "ID": "rbxassetid://137061945627677", "Num": "271", "Chi": "只往 雲康苑", "Eng": "WAN HONG COURT", "Delay": 3 },
+   { "ID": "rbxassetid://84153244831549", "Num": "271", "Chi": "只往 雲康苑", "Eng": "WAN HONG COURT", "Delay": 2.5 }
+    ],
+    "Fares": {
+       "1": { "Full": "$6.4", "Half": "$3.2", "Para": "1/2" },
+         "2": { "Full": "$3.5", "Half": "$1.8", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+        "271Y": {
+    "Displays": [
+   { "ID": "rbxassetid://132424618843410", "Num": "271", "Chi": "背沙 澄天匯", "Eng": "BUI SHA (VIBRANT AZURE)", "Delay": 4 },
+   { "ID": "rbxassetid://77786257102859", "Num": "271", "Chi": "背沙 澄天匯", "Eng": "BUI SHA (VIBRANT AZURE)", "Delay": 2.5 },
+         { "ID": "rbxassetid://94220578145140", "Num": "271", "Chi": "特快 > 背沙邨", "Eng": "EXPRESS > BUI SHA ESTATE", "Delay": 2.5 }
+    ],
+    "Fares": {
+       "1": { "Full": "$6.4", "Half": "$3.2", "Para": "1/2" },
+        "2": { "Full": "$4.7", "Half": "$2.4", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+   "271Z": {
+    "Displays": [
+   { "ID": "rbxassetid://17441542648", "Num": "271", "Chi": "天雲山", "Eng": "TIN WAN SHAN", "Delay": 3 },
+   { "ID": "rbxassetid://17441543855", "Num": "271", "Chi": "經:雲安", "Eng": "VIA: WAN ON", "Delay": 2.5 }
+    ],
+    "Fares": {
+       "1": { "Full": "$6.4", "Half": "$3.2", "Para": "1/2" },
+         "2": { "Full": "$3.5", "Half": "$1.8", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+        "271EY": {
+    "Displays": [
+   { "ID": "rbxassetid://83649666063586", "Num": "271ᴇ", "Chi": "背沙 澄天匯", "Eng": "BUI SHA (VIBRANT AZURE)", "Delay": 4 },
+         { "ID": "rbxassetid://136954820093864", "Num": "271ᴇ", "Chi": "直達 > 背沙東", "Eng": "DIRECT > BUI SHA EAST", "Delay": 2.5 }
+    ],
+    "Fares": {
+       "1": { "Full": "$7.1", "Half": "$3.6", "Para": "1/2" },
+        "2": { "Full": "$4.7", "Half": "$2.4", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+   "271EZ": {
+    "Displays": [
+   { "ID": "rbxassetid://111558274232599", "Num": "271ᴇ", "Chi": "天雲山", "Eng": "TIN WAN SHAN", "Delay": 3 },
+   { "ID": "rbxassetid://75453187032660", "Num": "271ᴇ", "Chi": "經:雲安", "Eng": "VIA: WAN ON", "Delay": 2.5 }
+    ],
+    "Fares": {
+        "1": { "Full": "$7.1", "Half": "$3.6", "Para": "1/2" },
+         "2": { "Full": "$3.5", "Half": "$1.8", "Para": "2/2" }
+    },
+    "TotalStages": 2
   },
    "NIS": {
     "Displays": [
