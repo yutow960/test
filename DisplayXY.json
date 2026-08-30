@@ -1,8 +1,8 @@
 {
   "32Y": {
     "Displays": [
-      { "ID": "rbxassetid://87341546300220", "Num": "32", "Chi": "迎田", "Eng": "YING TIN", "Delay": 4 },
-      { "ID": "rbxassetid://117586941187983", "Num": "32", "Chi": "經:裕華苑", "Eng": "VIA: YUE WAH COURT", "Delay": 2.5 }
+      { "ID": "rbxassetid://104595418793936", "Num": "32", "Chi": "迎田", "Eng": "YING TIN", "Delay": 4 },
+      { "ID": "rbxassetid://75759209860648", "Num": "32", "Chi": "經:裕華苑", "Eng": "VIA: YUE WAH COURT", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$4.4", "Half": "$2.2", "Para": "1/2" },
@@ -12,8 +12,8 @@
   },
   "32Z": {
     "Displays": [
-      { "ID": "rbxassetid://71532609034102", "Num": "32", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
-      { "ID": "rbxassetid://115754713346555", "Num": "32", "Chi": "經:富園", "Eng": "VIA: FU YUEN", "Delay": 2.5 }
+      { "ID": "rbxassetid://91570867973409", "Num": "32", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+      { "ID": "rbxassetid://98599679962218", "Num": "32", "Chi": "經:富園", "Eng": "VIA: FU YUEN", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$4.4", "Half": "$2.2", "Para": "1/2" },
@@ -23,8 +23,8 @@
   },
     "32AY": {
     "Displays": [
-      { "ID": "rbxassetid://16900752069", "Num": "32ᴀ", "Chi": "海邊工業邨", "Eng": "WATERSIDE INDUSTRIAL ESTATE", "Delay": 4 },
-      { "ID": "rbxassetid://16900753375", "Num": "32ᴀ", "Chi": "經:裕華苑", "Eng": "VIA: YUE WAH COURT", "Delay": 2.5 }
+      { "ID": "rbxassetid://126319394661901", "Num": "32ᴀ", "Chi": "海邊工業邨", "Eng": "WATERSIDE INDUSTRIAL ESTATE", "Delay": 4 },
+      { "ID": "rbxassetid://132450639043077", "Num": "32ᴀ", "Chi": "經:裕華苑", "Eng": "VIA: YUE WAH COURT", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$4.4", "Half": "$2.2", "Para": "1/2" },
@@ -34,8 +34,8 @@
   },
   "32AZ": {
     "Displays": [
-      { "ID": "rbxassetid://113377285227456", "Num": "32ᴀ", "Chi": "大園市中心", "Eng": "TAI YUEN CENTRAL", "Delay": 4 },
-      { "ID": "rbxassetid://137638280214922", "Num": "32ᴀ", "Chi": "經:欣園", "Eng": "VIA: YAN YUEN", "Delay": 2.5 }
+      { "ID": "rbxassetid://140606307537461", "Num": "32ᴀ", "Chi": "大園市中心", "Eng": "TAI YUEN CENTRAL", "Delay": 4 },
+      { "ID": "rbxassetid://116328196971337", "Num": "32ᴀ", "Chi": "經:欣園", "Eng": "VIA: YAN YUEN", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$4.4", "Half": "$2.2", "Para": "1/2" },
@@ -45,7 +45,7 @@
   },
      "32BY": {
     "Displays": [
-      { "ID": "rbxassetid://13617213782", "Num": "32ʙ", "Chi": "欣園 及 康園", "Eng": "YAN YUEN & HONG YUEN", "Delay": 4 }
+      { "ID": "rbxassetid://113500867378613", "Num": "32ʙ", "Chi": "欣園 及 康園", "Eng": "YAN YUEN & HONG YUEN", "Delay": 4 }
     ],
     "Fares": {
      "1": { "Full": "$3.9", "Half": "$2.0", "Para": "1/1" }
@@ -54,8 +54,8 @@
   },
   "32BZ": {
     "Displays": [
-      { "ID": "rbxassetid://125240624627290", "Num": "32ʙ", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
-      { "ID": "rbxassetid://132769662468831", "Num": "32ʙ", "Chi": "經:富園", "Eng": "VIA: FU YUEN", "Delay": 2.5 }
+      { "ID": "rbxassetid://83117582917623", "Num": "32ʙ", "Chi": "大園碼頭", "Eng": "TAI YUEN PIER", "Delay": 4 },
+      { "ID": "rbxassetid://77262613605198", "Num": "32ʙ", "Chi": "經:富園", "Eng": "VIA: FU YUEN", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$3.9", "Half": "$2.0", "Para": "1/1" }
@@ -196,8 +196,8 @@
   },
    "36RZ": {
     "Displays": [
-      { "ID": "rbxassetid://15347911058", "Num": "36ʀ", "Chi": "大園 康宏苑", "Eng": "TAI YUEN (HONG WANG COURT)", "Delay": 4 },
-      { "ID": "rbxassetid://15347912146", "Num": "36ʀ", "Chi": "直達 > 大園", "Eng": "DIRECT > TAI YUEN", "Delay": 2.5 }
+      { "ID": "rbxassetid://101719972619090", "Num": "36ʀ", "Chi": "大園 康宏苑", "Eng": "TAI YUEN (HONG WANG COURT)", "Delay": 4 },
+      { "ID": "rbxassetid://99643754593711", "Num": "36ʀ", "Chi": "直達 > 大園", "Eng": "DIRECT > TAI YUEN", "Delay": 2.5 }
       ],
     "Fares": {
        "1": { "Full": "$19.5", "Half": "$9.8", "Para": "1/4" },
@@ -209,7 +209,7 @@
   },
   "36RY": {
     "Displays": [
-      { "ID": "rbxassetid://16900777170", "Num": "36ʀ", "Chi": "北貢(特快)", "Eng": "PAK KUNG (EXPRESS)", "Delay": 4 }
+      { "ID": "rbxassetid://112276439606486", "Num": "36ʀ", "Chi": "北貢(特快)", "Eng": "PAK KUNG (EXPRESS)", "Delay": 4 }
     ],
     "Fares": {
       "1": { "Full": "$19.5", "Half": "$9.8", "Para": "1/2" },
@@ -219,7 +219,7 @@
   },
     "40Y": {
     "Displays": [
-      { "ID": "rbxassetid://104273113393974", "Num": "40", "Chi": "海邊工業邨", "Eng": "WATERSIDE INDUSTRIAL ESTATE", "Delay": 4 }
+      { "ID": "rbxassetid://73728207809966", "Num": "40", "Chi": "海邊工業邨", "Eng": "WATERSIDE INDUSTRIAL ESTATE", "Delay": 4 }
       ],
     "Fares": {
        "1": { "Full": "$4.1", "Half": "$2.1", "Para": "1/1" }
@@ -228,7 +228,7 @@
   },
   "40Z": {
     "Displays": [
-      { "ID": "rbxassetid://16900771614", "Num": "40", "Chi": "裕華苑", "Eng": "YUE WAH COURT", "Delay": 4 }
+      { "ID": "rbxassetid://137192145892288", "Num": "40", "Chi": "裕華苑", "Eng": "YUE WAH COURT", "Delay": 4 }
     ],
     "Fares": {
         "1": { "Full": "$4.1", "Half": "$2.1", "Para": "1/1" }
@@ -345,8 +345,8 @@
   },
    "43PY": {
     "Displays": [
-      { "ID": "rbxassetid://130998163295267", "Num": "43ᴘ", "Chi": "背沙 沐恩街", "Eng": "BUI SHA (MUK YAN STREET)", "Delay": 4 },
-        { "ID": "rbxassetid://99467276085873", "Num": "43ᴘ", "Chi": "特快 > 背沙東", "Eng": "EXPRESS > BUI SHA EAST", "Delay": 2.5 }
+      { "ID": "rbxassetid://91095863169081", "Num": "43ᴘ", "Chi": "背沙 沐恩街", "Eng": "BUI SHA (MUK YAN STREET)", "Delay": 4 },
+        { "ID": "rbxassetid://128251464471688", "Num": "43ᴘ", "Chi": "特快 > 背沙東", "Eng": "EXPRESS > BUI SHA EAST", "Delay": 2.5 }
       ],
     "Fares": {
            "1": { "Full": "$8.3", "Half": "$4.2", "Para": "1/2" },
@@ -356,8 +356,8 @@
   },
   "43PZ": {
     "Displays": [
-      { "ID": "rbxassetid://71470434256694", "Num": "43ᴘ", "Chi": "裕華苑", "Eng": "YUE WAH COURT", "Delay": 4 },
-        { "ID": "rbxassetid://85000994245725", "Num": "43ᴘ", "Chi": "特快 > 迎田", "Eng": "EXPRESS > YING TIN", "Delay": 2.5 }
+      { "ID": "rbxassetid://78789276372896", "Num": "43ᴘ", "Chi": "裕華苑", "Eng": "YUE WAH COURT", "Delay": 4 },
+        { "ID": "rbxassetid://103151578890805", "Num": "43ᴘ", "Chi": "特快 > 迎田", "Eng": "EXPRESS > YING TIN", "Delay": 2.5 }
     ],
     "Fares": {
          "1": { "Full": "$8.3", "Half": "$4.2", "Para": "1/3" },
