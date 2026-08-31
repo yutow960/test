@@ -368,8 +368,8 @@
   },
      "44Y": {
     "Displays": [
-      { "ID": "rbxassetid://90725854125566", "Num": "44", "Chi": "北貢", "Eng": "PAK KUNG", "Delay": 4 },
-        { "ID": "rbxassetid://101390183529197", "Num": "44", "Chi": "經:石永,凱靈頓", "Eng": "VIA: SHEK WING, HOI LING TON", "Delay": 2.5 }
+      { "ID": "rbxassetid://132542554383755", "Num": "44", "Chi": "北貢", "Eng": "PAK KUNG", "Delay": 4 },
+        { "ID": "rbxassetid://107357981772820", "Num": "44", "Chi": "經:石永,凱靈頓", "Eng": "VIA: SHEK WING, HOI LING TON", "Delay": 2.5 }
       ],
     "Fares": {
            "1": { "Full": "$13.9", "Half": "$4.2", "Para": "1/3" },
@@ -380,9 +380,9 @@
   },
   "44Z": {
     "Displays": [
-        { "ID": "rbxassetid://104119486273464", "Num": "44", "Chi": "裕華苑", "Eng": "YUE WAH COURT", "Delay": 4 },
-        { "ID": "rbxassetid://76631041029920", "Num": "44", "Chi": "北貢 ▶ 凱靈頓", "Eng": "八達通分段$5.2", "Delay": 2.5 },
-        { "ID": "rbxassetid://93001180249451", "Num": "44", "Chi": "經:石永,欣園", "Eng": "VIA: SHEK WING, YAN YUEN", "Delay": 2.5 }
+        { "ID": "rbxassetid://119869926157525", "Num": "44", "Chi": "裕華苑", "Eng": "YUE WAH COURT", "Delay": 4 },
+        { "ID": "rbxassetid://89951498201911", "Num": "44", "Chi": "北貢 ▶ 凱靈頓", "Eng": "八達通分段$5.2", "Delay": 2.5 },
+        { "ID": "rbxassetid://122692490382676", "Num": "44", "Chi": "經:石永,欣園", "Eng": "VIA: SHEK WING, YAN YUEN", "Delay": 2.5 }
     ],
     "Fares": {
          "1": { "Full": "$13.9", "Half": "$4.2", "Para": "1/5" },
@@ -395,8 +395,8 @@
   },
        "44P": {
     "Displays": [
-      { "ID": "rbxassetid://124633231587118", "Num": "44", "Chi": "凱靈頓 及 北貢", "Eng": "HOI LING TON & PAK KUNG", "Delay": 4 },
-        { "ID": "rbxassetid://91080918045515", "Num": "44", "Chi": "凱靈頓 及 北貢", "Eng": "不經 石安,石永邨", "Delay": 2.5 }
+      { "ID": "rbxassetid://110861556267593", "Num": "44", "Chi": "凱靈頓 及 北貢", "Eng": "HOI LING TON & PAK KUNG", "Delay": 4 },
+        { "ID": "rbxassetid://121933318191207", "Num": "44", "Chi": "凱靈頓 及 北貢", "Eng": "不經 石安,石永邨", "Delay": 2.5 }
       ],
     "Fares": {
            "1": { "Full": "$13.9", "Half": "$4.2", "Para": "1/3" },
@@ -407,8 +407,8 @@
   },
   "44S": {
     "Displays": [
-        { "ID": "rbxassetid://100110407375253", "Num": "44", "Chi": "裕華苑", "Eng": "YUE WAH COURT", "Delay": 4 },
-        { "ID": "rbxassetid://95480873486328", "Num": "44", "Chi": "大園南 及 迎田", "Eng": "不經 石永邨,石安", "Delay": 2.5 }
+        { "ID": "rbxassetid://104817515923941", "Num": "44", "Chi": "裕華苑", "Eng": "YUE WAH COURT", "Delay": 4 },
+        { "ID": "rbxassetid://106540109795178", "Num": "44", "Chi": "大園南 及 迎田", "Eng": "不經 石永邨,石安", "Delay": 2.5 }
     ],
     "Fares": {
          "1": { "Full": "$13.9", "Half": "$4.2", "Para": "1/5" },
