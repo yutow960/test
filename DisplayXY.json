@@ -1130,8 +1130,17 @@
   },
    "NIS": {
     "Displays": [
-      { "ID": "rbxassetid://12630931924", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 },
-      { "ID": "rbxassetid://136614467363043", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 }
+      { "ID": "rbxassetid://96049727178321", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 },
+      { "ID": "rbxassetid://98923114969105", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+    "GENT": {
+    "Displays": [
+      { "ID": "rbxassetid://87317879245250", "Num": "GenT", "Chi": "Genuine Transit", "Eng": "Move Beyond", "Delay": 4 }
     ],
     "Fares": {
       "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
@@ -1149,7 +1158,7 @@
   },
    "TB": {
     "Displays": [
-       { "ID": "rbxassetid://12630921926", "Num": "", "Chi": "訓練巴士", "Eng": "TRAINING BUS", "Delay": 4 }
+       { "ID": "rbxassetid://86053520184184", "Num": "", "Chi": "訓練巴士", "Eng": "TRAINING BUS", "Delay": 4 }
     ],
     "Fares": {
       "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
@@ -1158,7 +1167,7 @@
   },
     "CB": {
     "Displays": [
-       { "ID": "rbxassetid://12630921351", "Num": "", "Chi": "員工接送", "Eng": "CREW BUS", "Delay": 4 }
+       { "ID": "rbxassetid://121789859186340", "Num": "", "Chi": "員工接送", "Eng": "CREW BUS", "Delay": 4 }
     ],
     "Fares": {
       "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
@@ -1167,7 +1176,7 @@
   },
      "TR": {
     "Displays": [
-       { "ID": "rbxassetid://12630922376", "Num": "", "Chi": "試車", "Eng": "TRIAL RUN", "Delay": 4 }
+       { "ID": "rbxassetid://119469412963977", "Num": "", "Chi": "試車", "Eng": "TRIAL RUN", "Delay": 4 }
     ],
     "Fares": {
       "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
