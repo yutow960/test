@@ -564,8 +564,8 @@
   },
     "61Y": {
     "Displays": [
-      { "ID": "rbxassetid://13943483325", "Num": "61", "Chi": "嘉門巿中心", "Eng": "KA MUN CENTRAL", "Delay": 4 },
-        { "ID": "rbxassetid://13943484223", "Num": "61", "Chi": "轉乘通石永", "Eng": "", "Delay": 2.5 }
+      { "ID": "rbxassetid://85945894891207", "Num": "61", "Chi": "嘉門巿中心", "Eng": "KA MUN CENTRAL", "Delay": 4 },
+        { "ID": "rbxassetid://78070650405635", "Num": "61", "Chi": "轉乘通石永", "Eng": "", "Delay": 2.5 }
       ],
     "Fares": {
            "1": { "Full": "$4.8", "Half": "$2.4", "Para": "1/1" }
@@ -574,7 +574,7 @@
   },
    "61Z": {
     "Displays": [
-      { "ID": "rbxassetid://13943482649", "Num": "61", "Chi": "嘉晴邨", "Eng": "KA CHING ESTATE", "Delay": 4 }
+      { "ID": "rbxassetid://91406028637655", "Num": "61", "Chi": "嘉晴邨", "Eng": "KA CHING ESTATE", "Delay": 4 }
       ],
     "Fares": {
            "1": { "Full": "$4.8", "Half": "$2.4", "Para": "1/1" }
