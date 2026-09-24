@@ -794,7 +794,7 @@
       { "ID": "rbxassetid://96426059344163", "Num": "B3ᴀ", "Chi": "安盛口岸", "Eng": "ON SHING PORT", "Delay": 4 }
     ],
     "Fares": {
-       "1": { "Full": "$14.2", "Half": "$7.1", "Para": "1/2" }
+       "1": { "Full": "$14.2", "Half": "$7.1", "Para": "1/2" },
        "2": { "Full": "$6.2", "Half": "$3.1", "Para": "2/2" }
     },
     "TotalStages": 2
