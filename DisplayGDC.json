@@ -2,7 +2,7 @@
   "11Y": {
     "Displays": [
       { "ID": "rbxassetid://78728272556402", "Num": "11", "Chi": "貢景繞道轉車站", "Eng": "KUNG KING BYPASS BBI", "Delay": 4 },
-      { "ID": "rbxassetid://85175563368765", "Num": "11", "Chi": "經:裕華苑", "Eng": "VIA: FIRST HOSPITAL", "Delay": 2.5 }
+      { "ID": "rbxassetid://85175563368765", "Num": "11", "Chi": "經:第一醫院", "Eng": "VIA: FIRST HOSPITAL", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$3.8", "Half": "$1.9", "Para": "1/1" }
@@ -42,7 +42,7 @@
      "17Y": {
     "Displays": [
       { "ID": "rbxassetid://114122096004745", "Num": "17", "Chi": "貢景站", "Eng": "KUNG KING STATION", "Delay": 4 },
-      { "ID": "rbxassetid://80970117548515", "Num": "17", "Chi": "經:富園", "Eng": "KUNG KING EAST", "Delay": 2.5 }
+      { "ID": "rbxassetid://80970117548515", "Num": "17", "Chi": "貢景東", "Eng": "KUNG KING EAST", "Delay": 2.5 }
     ],
     "Fares": {
   "1": { "Full": "$4.9", "Half": "$2.5", "Para": "1/1" }
@@ -100,7 +100,7 @@
     "24Y": {
     "Displays": [
       { "ID": "rbxassetid://86313089229743", "Num": "24", "Chi": "哥頓市中心", "Eng": "GORDON TOWN CENTRE", "Delay": 4 },
-        { "ID": "rbxassetid://132475957364589", "Num": "24", "Chi": "新村許願樹", "Eng": "SAN TSUEN WISHING TREE", "Delay": 2.5 }
+        { "ID": "rbxassetid://132475957364589", "Num": "24", "Chi": "經:水士路", "Eng": "VIA: SWIS ROAD", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$4.9", "Half": "$2.5", "Para": "1/1" }
@@ -110,7 +110,7 @@
   "24Z": {
     "Displays": [
       { "ID": "rbxassetid://131559554200382", "Num": "24", "Chi": "景業邨", "Eng": "KING YIP ESTATE", "Delay": 4 },
-        { "ID": "rbxassetid://101327136075603", "Num": "24", "Chi": "新村許願樹", "Eng": "SAN TSUEN WISHING TREE", "Delay": 2.5 }
+        { "ID": "rbxassetid://101327136075603", "Num": "24", "Chi": "經:嘉樂庇,西角", "Eng": "VIA: CARLOB, WEST POINT", "Delay": 2.5 }
     ],
     "Fares": {
     "1": { "Full": "$4.9", "Half": "$2.5", "Para": "1/2" },
@@ -121,7 +121,7 @@
   "24XY": {
     "Displays": [
       { "ID": "rbxassetid://138033894340908", "Num": "24x", "Chi": "哥頓市中心", "Eng": "GORDON TOWN CENTRE", "Delay": 4 },
-        { "ID": "rbxassetid://118730644490377", "Num": "24x", "Chi": "新村許願樹", "Eng": "VIA: PROMENADE", "Delay": 2.5 }
+        { "ID": "rbxassetid://118730644490377", "Num": "24x", "Chi": "經:海傍", "Eng": "VIA: PROMENADE", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$5.7", "Half": "$2.9", "Para": "1/1" }
@@ -131,7 +131,7 @@
   "24XZ": {
     "Displays": [
       { "ID": "rbxassetid://129897969861780", "Num": "24x", "Chi": "景業邨", "Eng": "KING YIP ESTATE", "Delay": 4 },
-        { "ID": "rbxassetid://115834861065144", "Num": "24x", "Chi": "新村許願樹", "Eng": "EXPRESS > NORTH CITYGATE", "Delay": 2.5 }
+        { "ID": "rbxassetid://115834861065144", "Num": "24x", "Chi": "直達 > 北薈城", "Eng": "DIRECT > NORTH CITYGATE", "Delay": 2.5 }
     ],
     "Fares": {
     "1": { "Full": "$5.7", "Half": "$2.9", "Para": "1/2" },
@@ -202,7 +202,7 @@
     "71DY": {
     "Displays": [
       { "ID": "rbxassetid://78919924940769", "Num": "71ᴅ", "Chi": "貢景站", "Eng": "KUNG KING STATION", "Delay": 4 },
-      { "ID": "rbxassetid://112685329037508", "Num": "71ᴅ", "Chi": "經:松鼠山", "Eng": "VIA: PROMENADE", "Delay": 2.5 }
+      { "ID": "rbxassetid://112685329037508", "Num": "71ᴅ", "Chi": "經:哥頓,海傍", "Eng": "VIA: GORDON, PROMENADE", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/3" },
@@ -239,7 +239,7 @@
         "71XY": {
     "Displays": [
       { "ID": "rbxassetid://81942326227192", "Num": "71x", "Chi": "貢景 景炫軒", "Eng": "KUNG KING (CANNON LODGE)", "Delay": 4 },
-      { "ID": "rbxassetid://85523554181336", "Num": "71x", "Chi": "經:哥頓", "Eng": "RAPID > GORDON", "Delay": 2.5 }
+      { "ID": "rbxassetid://85523554181336", "Num": "71x", "Chi": "快速 » 哥頓", "Eng": "RAPID » GORDON", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/3" },
@@ -251,7 +251,7 @@
     "71XZ": {
     "Displays": [
       { "ID": "rbxassetid://140458964194620", "Num": "71x", "Chi": "華坑邨", "Eng": "WAH HANG ESTATE", "Delay": 4 },
-      { "ID": "rbxassetid://128772925577372", "Num": "71x", "Chi": "經:哥頓", "Eng": "RAPID > GORDON", "Delay": 2.5 }
+      { "ID": "rbxassetid://128772925577372", "Num": "71x", "Chi": "快速 » 哥頓", "Eng": "RAPID » GORDON", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/3" },
@@ -263,7 +263,7 @@
     "74AY": {
     "Displays": [
       { "ID": "rbxassetid://98827447409226", "Num": "74ᴀ", "Chi": "西角碼頭", "Eng": "WEST POINT PIER", "Delay": 4 },
-      { "ID": "rbxassetid://72536635574872", "Num": "74ᴀ", "Chi": "經:哥頓", "Eng": "RAPID > GORDON", "Delay": 2.5 }
+      { "ID": "rbxassetid://72536635574872", "Num": "74ᴀ", "Chi": "經:貢景,景明", "Eng": "VIA: KUNG KING, KING MING", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$9.8", "Half": "$4.9", "Para": "1/3" },
@@ -275,7 +275,7 @@
     "74AZ": {
     "Displays": [
       { "ID": "rbxassetid://114003471889790", "Num": "74ᴀ", "Chi": "琛灣", "Eng": "SHUM WAN", "Delay": 4 },
-      { "ID": "rbxassetid://105864732462475", "Num": "74ᴀ", "Chi": "經:哥頓", "Eng": "VIA: TIN WAN", "Delay": 2.5 }
+      { "ID": "rbxassetid://105864732462475", "Num": "74ᴀ", "Chi": "經:貢景,田灣", "Eng": "VIA: KUNG KING, TIN WAN", "Delay": 2.5 }
     ],
     "Fares": {
         "1": { "Full": "$9.8", "Half": "$4.9", "Para": "1/3" },
@@ -287,7 +287,7 @@
     "74BY": {
     "Displays": [
       { "ID": "rbxassetid://17089121528", "Num": "74ʙ", "Chi": "西角碼頭", "Eng": "WEST POINT PIER", "Delay": 4 },
-      { "ID": "rbxassetid://17089122665", "Num": "74ʙ", "Chi": "經:哥頓", "Eng": "DIRECT > KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://17089122665", "Num": "74ʙ", "Chi": "直達 > 貢景站", "Eng": "DIRECT > KUNG KING STATION", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$9.8", "Half": "$4.9", "Para": "1/3" },
@@ -310,7 +310,7 @@
       "74DY": {
     "Displays": [
       { "ID": "rbxassetid://89561257671091", "Num": "74ᴅ", "Chi": "景明南", "Eng": "KING MING (SOUTH)", "Delay": 4 },
-      { "ID": "rbxassetid://72579096473875", "Num": "74ᴅ", "Chi": "經:哥頓", "Eng": "DIRECT > KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://72579096473875", "Num": "74ᴅ", "Chi": "直達 > 景明站", "Eng": "DIRECT > KING MING STATION", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$9.8", "Half": "$4.9", "Para": "1/2" },
@@ -321,7 +321,7 @@
     "74DZ": {
     "Displays": [
       { "ID": "rbxassetid://137644069480204", "Num": "74ᴅ", "Chi": "琛灣", "Eng": "SHUM WAN", "Delay": 4 },
-      { "ID": "rbxassetid://87534573677145", "Num": "74ᴅ", "Chi": "琛灣", "Eng": "SHUM WAN", "Delay": 2.5 }
+      { "ID": "rbxassetid://87534573677145", "Num": "74ᴅ", "Chi": "直達 > 田灣", "Eng": "DIRECT > TIN WAN", "Delay": 2.5 }
     ],
     "Fares": {
         "1": { "Full": "$9.8", "Half": "$4.9", "Para": "1/2" },
@@ -332,7 +332,7 @@
       "74XY": {
     "Displays": [
       { "ID": "rbxassetid://17089125526", "Num": "74x", "Chi": "景明南", "Eng": "KING MING (SOUTH)", "Delay": 4 },
-      { "ID": "rbxassetid://17089127132", "Num": "74x", "Chi": "經:哥頓", "Eng": "DIRECT > KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://17089127132", "Num": "74x", "Chi": "特快 > 北薈城", "Eng": "EXPRESS > NORTH CITYGATE", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$9.8", "Half": "$4.9", "Para": "1/2" },
@@ -343,7 +343,7 @@
     "74XZ": {
     "Displays": [
       { "ID": "rbxassetid://17540152704", "Num": "74x", "Chi": "琛灣", "Eng": "SHUM WAN", "Delay": 4 },
-      { "ID": "rbxassetid://17089128898", "Num": "74x", "Chi": "琛灣", "Eng": "SHUM WAN", "Delay": 2.5 }
+      { "ID": "rbxassetid://17089128898", "Num": "74x", "Chi": "直達 > 田灣", "Eng": "DIRECT > TIN WAN", "Delay": 2.5 }
     ],
     "Fares": {
         "1": { "Full": "$9.8", "Half": "$4.9", "Para": "1/2" },
@@ -354,7 +354,7 @@
     "82Y": {
     "Displays": [
       { "ID": "rbxassetid://114919743928979", "Num": "82", "Chi": "東灣半島", "Eng": "EAST BAY RESORT", "Delay": 4 },
-      { "ID": "rbxassetid://136278106307374", "Num": "82", "Chi": "經:哥頓", "Eng": "DIRECT > KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://136278106307374", "Num": "82", "Chi": "經:副都心", "Eng": "VIA: SUBURB", "Delay": 2.5 }
     ],
     "Fares": {
      "1": { "Full": "$4.3", "Half": "$2.2", "Para": "1/1" }
@@ -372,8 +372,8 @@
   },
       "82XY": {
     "Displays": [
-      { "ID": "rbxassetid://116222792521984", "Num": "82x", "Chi": "東灣半島", "Eng": "EAST BAY RESORT", "Delay": 4 },
-      { "ID": "rbxassetid://77765106377589", "Num": "82x", "Chi": "經:哥頓", "Eng": "DIRECT > KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://116222792521984", "Num": "82x", "Chi": "哥頓市中心", "Eng": "GORDON TOWN CENTRE", "Delay": 4 },
+      { "ID": "rbxassetid://77765106377589", "Num": "82x", "Chi": "直達 > 東灣", "Eng": "DIRECT > EAST BAY", "Delay": 2.5 }
     ],
     "Fares": {
      "1": { "Full": "$6.0", "Half": "$3.0", "Para": "1/2" },
@@ -384,7 +384,7 @@
     "82XZ": {
     "Displays": [
       { "ID": "rbxassetid://134364589732408", "Num": "82x", "Chi": "南環廣場", "Eng": "SOUTH BAY PLAZA", "Delay": 4 },
-       { "ID": "rbxassetid://130065082949349", "Num": "82x", "Chi": "南環廣場", "Eng": "SOUTH BAY PLAZA", "Delay": 2.5 }
+       { "ID": "rbxassetid://130065082949349", "Num": "82x", "Chi": "特快 > 副都心", "Eng": "EXPRESS > SUBURB", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$5.5", "Half": "$2.8", "Para": "1/2" },
@@ -395,7 +395,7 @@
         "84MY": {
     "Displays": [
       { "ID": "rbxassetid://16868430640", "Num": "84ᴍ", "Chi": "頤和苑", "Eng": "YIN WO COURT", "Delay": 4 },
-      { "ID": "rbxassetid://16868431498", "Num": "84ᴍ", "Chi": "經:哥頓", "Eng": "DIRECT > KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://16868431498", "Num": "84ᴍ", "Chi": "經:哥頓", "Eng": "VIA: GORDON", "Delay": 2.5 }
     ],
     "Fares": {
    "1": { "Full": "$4.3", "Half": "$2.2", "Para": "1/1" }
@@ -405,7 +405,7 @@
     "84MZ": {
     "Displays": [
       { "ID": "rbxassetid://16868427443", "Num": "84ᴍ", "Chi": "南環廣場", "Eng": "SOUTH BAY PLAZA", "Delay": 4 },
-       { "ID": "rbxassetid://16868428759", "Num": "84ᴍ", "Chi": "南環廣場", "Eng": "SOUTH BAY PLAZA", "Delay": 2.5 }
+       { "ID": "rbxassetid://16868428759", "Num": "84ᴍ", "Chi": "經:都平邨", "Eng": "VIA: TAO PING ESTATE", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$4.3", "Half": "$2.2", "Para": "1/1" }
@@ -416,7 +416,7 @@
     "Displays": [
       { "ID": "rbxassetid://123852047716464", "Num": "92ᴀ", "Chi": "東灣半島", "Eng": "EAST BAY RESORT", "Delay": 4 },
       { "ID": "rbxassetid://108282617673294", "Num": "92ᴀ", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 },
-      { "ID": "rbxassetid://100522940663975", "Num": "92ᴀ", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://100522940663975", "Num": "92ᴀ", "Chi": "經:第一醫院", "Eng": "VIA: FIRST HOSPITAL", "Delay": 2.5 }
     ],
     "Fares": {
    "1": { "Full": "$5.2", "Half": "$2.6", "Para": "1/2" },
@@ -467,8 +467,8 @@
     "92CZ": {
     "Displays": [
       { "ID": "rbxassetid://88424359891605", "Num": "92c", "Chi": "新哥頓中心", "Eng": "PARK GORDON", "Delay": 4 },
-      { "ID": "rbxassetid://124510331118253", "Num": "92c", "Chi": "新哥頓中心", "Eng": "PARK GORDON", "Delay": 2.5 },
-       { "ID": "rbxassetid://123302992398256", "Num": "92c", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://124510331118253", "Num": "92c", "Chi": "經:第一醫院", "Eng": "VIA: FIRST HOSPITAL", "Delay": 2.5 },
+       { "ID": "rbxassetid://123302992398256", "Num": "92c", "Chi": "經:亞馬喇", "Eng": "VIA: FERRIRA", "Delay": 2.5 }
     ],
     "Fares": {
 "1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/1" }
@@ -510,7 +510,7 @@
     "92MZ": {
     "Displays": [
       { "ID": "rbxassetid://110472477321111", "Num": "92ᴍ", "Chi": "金泰邨", "Eng": "GOLD LION ESTATE", "Delay": 4 },
-      { "ID": "rbxassetid://85446261453067", "Num": "92ᴍ", "Chi": "經:北薈城", "Eng": "VIA: NORTH CITYGATE", "Delay": 2.5 }
+      { "ID": "rbxassetid://85446261453067", "Num": "92ᴍ", "Chi": "經:景明邨", "Eng": "VIA: KING MING ESTATE", "Delay": 2.5 }
     ],
     "Fares": {
  "1": { "Full": "$5.2", "Half": "$2.6", "Para": "1/2" },
@@ -530,7 +530,7 @@
   "92XY": {
     "Displays": [
       { "ID": "rbxassetid://108995659488561", "Num": "92x", "Chi": "頤和苑", "Eng": "YIN WO COURT", "Delay": 4 },
-       { "ID": "rbxassetid://79009652440340", "Num": "92x", "Chi": "經:北薈城", "Eng": "VIA: NORTH CITYGATE", "Delay": 2.5 }
+       { "ID": "rbxassetid://79009652440340", "Num": "92x", "Chi": "經:副都心", "Eng": "VIA: SUBURB", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$8.2", "Half": "$4.1", "Para": "1/3" },
@@ -554,7 +554,7 @@
     "275DY": {
     "Displays": [
       { "ID": "rbxassetid://15616221608", "Num": "275ᴅ", "Chi": "富豪商場", "Eng": "BELAIR SHOPPING CENTRE", "Delay": 4 },
-       { "ID": "rbxassetid://15616222301", "Num": "275ᴅ", "Chi": "經:北薈城", "Eng": "VIA: NORTH CITYGATE", "Delay": 2.5 }
+       { "ID": "rbxassetid://15616222301", "Num": "275ᴅ", "Chi": "經:海傍路", "Eng": "VIA: PROMENADE PIER", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$11.3", "Half": "$5.7", "Para": "1/3" },
@@ -566,8 +566,8 @@
     "275DZ": {
     "Displays": [
       { "ID": "rbxassetid://15616220800", "Num": "275ᴅ", "Chi": "發水碼頭", "Eng": "FAAT SHUI PIER", "Delay": 4 },
-      { "ID": "rbxassetid://15616220220", "Num": "275ᴅ", "Chi": "發水碼頭", "Eng": "FAAT SHUI PIER", "Delay": 4 },
-      { "ID": "rbxassetid://15616219665", "Num": "275ᴅ", "Chi": "貢景繞道特快", "Eng": "KUNG KING BYPASS EXPRESS", "Delay": 2.5 }
+      { "ID": "rbxassetid://15616220220", "Num": "275ᴅ", "Chi": "經:海傍,金獅", "Eng": "VIA: PROMENADE , GOLD LION", "Delay": 2.5 },
+      { "ID": "rbxassetid://15616219665", "Num": "275ᴅ", "Chi": "經:發水文化區", "Eng": "VIA: FAAT SHUI CULTURAL AREA", "Delay": 2.5 }
     ],
     "Fares": {
  "1": { "Full": "$11.3", "Half": "$5.7", "Para": "1/3" },
@@ -599,7 +599,7 @@
      "275XY": {
     "Displays": [
       { "ID": "rbxassetid://15616212550", "Num": "275x", "Chi": "富豪商場", "Eng": "BELAIR SHOPPING CENTRE", "Delay": 4 },
-       { "ID": "rbxassetid://15616211874", "Num": "275x", "Chi": "經:北薈城", "Eng": "VIA: NORTH CITYGATE", "Delay": 2.5 }
+       { "ID": "rbxassetid://15616211874", "Num": "275x", "Chi": "直達 > 哥頓", "Eng": "DIRECT > GORDON", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$11.3", "Half": "$5.7", "Para": "1/3" },
@@ -611,7 +611,7 @@
     "275XZ": {
     "Displays": [
       { "ID": "rbxassetid://15616215520", "Num": "275x", "Chi": "發水碼頭", "Eng": "FAAT SHUI PIER", "Delay": 4 },
-      { "ID": "rbxassetid://15616210804", "Num": "275x", "Chi": "發水碼頭", "Eng": "FAAT SHUI PIER", "Delay": 2.5 }
+      { "ID": "rbxassetid://15616210804", "Num": "275x", "Chi": "特快 > 金獅", "Eng": "EXPRESS > GOLD LION", "Delay": 2.5 }
     ],
     "Fares": {
  "1": { "Full": "$11.3", "Half": "$5.7", "Para": "1/3" },
@@ -779,8 +779,8 @@
     "B3Z": {
     "Displays": [
       { "ID": "rbxassetid://116525035519109", "Num": "B3", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
-      { "ID": "rbxassetid://76294562696643", "Num": "B3", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 2.5 },
-      { "ID": "rbxassetid://139023011599779", "Num": "B3", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 2.5 }
+      { "ID": "rbxassetid://76294562696643", "Num": "B3", "Chi": "經:貢景", "Eng": "VIA: KUNG KING", "Delay": 2.5 },
+      { "ID": "rbxassetid://139023011599779", "Num": "B3", "Chi": "轉乘 > 哥頓", "Eng": "INTERCHANGE > GORDON", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$14.2", "Half": "$7.1", "Para": "1/3" },
@@ -802,7 +802,7 @@
     "B3AZ": {
     "Displays": [
       { "ID": "rbxassetid://115694669262661", "Num": "B3ᴀ", "Chi": "哥頓 駿景街", "Eng": "GORDON (CHUN KING STREET)", "Delay": 4 },
-      { "ID": "rbxassetid://119350177838387", "Num": "B3ᴀ", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 2.5 }
+      { "ID": "rbxassetid://119350177838387", "Num": "B3ᴀ", "Chi": "經:貢景,水士路", "Eng": "VIA: KUNG KING, SWIS ROAD", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$14.2", "Half": "$7.1", "Para": "1/3" },
@@ -825,7 +825,7 @@
     "B3MZ": {
     "Displays": [
       { "ID": "rbxassetid://79854028530353", "Num": "B3ᴍ", "Chi": "西角碼頭", "Eng": "WEST POINT PIER", "Delay": 4 },
-      { "ID": "rbxassetid://100270274295079", "Num": "B3ᴍ", "Chi": "西角碼頭", "Eng": "WEST POINT PIER", "Delay": 2.5 }
+      { "ID": "rbxassetid://100270274295079", "Num": "B3ᴍ", "Chi": "經:北薈城", "Eng": "VIA: NORTH CITYGATE", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$14.2", "Half": "$7.1", "Para": "1/3" },
@@ -859,8 +859,8 @@
     "B3XZ": {
     "Displays": [
       { "ID": "rbxassetid://122219074800648", "Num": "B3x", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
-      { "ID": "rbxassetid://120787901629104", "Num": "B3x", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 2.5 },
-      { "ID": "rbxassetid://17777340740", "Num": "B3x", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 2.5 }
+      { "ID": "rbxassetid://120787901629104", "Num": "B3x", "Chi": "直達 > 貢景站", "Eng": "DIRECT > KUNG KING STATION", "Delay": 2.5 },
+      { "ID": "rbxassetid://17777340740", "Num": "B3x", "Chi": "轉乘 > 哥頓", "Eng": "INTERCHANGE > GORDON", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$14.2", "Half": "$7.1", "Para": "1/3" },
@@ -881,7 +881,7 @@
     "NB3Z": {
     "Displays": [
       { "ID": "rbxassetid://98254921277097", "Num": "NB3", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
-      { "ID": "rbxassetid://98936024252165", "Num": "NB3", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 2.5 }
+      { "ID": "rbxassetid://98936024252165", "Num": "NB3", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$19.2", "Half": "$9.6", "Para": "1/2" },
