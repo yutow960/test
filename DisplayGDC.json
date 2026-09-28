@@ -741,7 +741,7 @@
        { "ID": "rbxassetid://15616201589", "Num": "N92x", "Chi": "經:貢景", "Eng": "VIA: KUNG KING", "Delay": 2.5 }
     ],
     "Fares": {
-       "1": { "Full": "$10.7", "Half": "$5.4", "Para": "1/1" }
+       "1": { "Full": "$14.8", "Half": "$7.4", "Para": "1/1" }
     },
     "TotalStages": 1
   },
@@ -750,7 +750,7 @@
         { "ID": "rbxassetid://15616202416", "Num": "N92x", "Chi": "金泰邨", "Eng": "KAM TAI ESTATE", "Delay": 4 }
     ],
     "Fares": {
-   "1": { "Full": "$10.7", "Half": "$5.4", "Para": "1/1" }
+     "1": { "Full": "$14.8", "Half": "$7.4", "Para": "1/1" }
     },
     "TotalStages": 1
   },
