@@ -39,6 +39,24 @@
     },
     "TotalStages": 2
   },
+      "11PTY": {
+    "Displays": [
+      { "ID": "rbxassetid://110494977640591", "Num": "11ᴘ", "Chi": "海傍創新園", "Eng": "PROMENADE INNOVATION PARK", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$4.9", "Half": "$2.4", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+  "11PTZ": {
+    "Displays": [
+      { "ID": "rbxassetid://86589689861129", "Num": "11ᴘ", "Chi": "貢景站", "Eng": "KUNG KING STATION", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$4.9", "Half": "$2.4", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
      "17Y": {
     "Displays": [
       { "ID": "rbxassetid://114122096004745", "Num": "17", "Chi": "貢景站", "Eng": "KUNG KING STATION", "Delay": 4 },
@@ -238,8 +256,8 @@
   },
         "71XY": {
     "Displays": [
-      { "ID": "rbxassetid://81942326227192", "Num": "71x", "Chi": "貢景 景炫軒", "Eng": "KUNG KING (CANNON LODGE)", "Delay": 4 },
-      { "ID": "rbxassetid://85523554181336", "Num": "71x", "Chi": "快速 » 哥頓", "Eng": "RAPID » GORDON", "Delay": 2.5 }
+      { "ID": "rbxassetid://78277763964476", "Num": "71x", "Chi": "貢景 景炫軒", "Eng": "KUNG KING (CANNON LODGE)", "Delay": 4 },
+      { "ID": "rbxassetid://128848046692635", "Num": "71x", "Chi": "快速 » 哥頓", "Eng": "RAPID » GORDON", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/3" },
@@ -251,7 +269,7 @@
     "71XZ": {
     "Displays": [
       { "ID": "rbxassetid://140458964194620", "Num": "71x", "Chi": "華坑邨", "Eng": "WAH HANG ESTATE", "Delay": 4 },
-      { "ID": "rbxassetid://128772925577372", "Num": "71x", "Chi": "快速 » 哥頓", "Eng": "RAPID » GORDON", "Delay": 2.5 }
+      { "ID": "rbxassetid://112283311955575", "Num": "71x", "Chi": "快速 » 哥頓", "Eng": "RAPID » GORDON", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/3" },
@@ -412,6 +430,35 @@
     },
     "TotalStages": 1
   },
+        "90MTP": {
+    "Displays": [
+      { "ID": "rbxassetid://81579584775351", "Num": "90ᴍ", "Chi": "只往 金獅西", "Eng": "GOLD LION (WEST)", "Delay": 4 },
+      { "ID": "rbxassetid://73545840189514", "Num": "90ᴍ", "Chi": "只往 金獅西", "Eng": "GOLD LION (WEST)", "Delay": 2.5 }
+    ],
+    "Fares": {
+  "1": { "Full": "$4.7", "Half": "$2.4", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+      "90MTY": {
+    "Displays": [
+      { "ID": "rbxassetid://117697143170571", "Num": "90ᴍ", "Chi": "金獅西", "Eng": "GOLD LION (WEST)", "Delay": 4 },
+      { "ID": "rbxassetid://96849470413874", "Num": "90ᴍ", "Chi": "經:沙角醫院", "Eng": "VIA: SHA KOK HOSPITAL", "Delay": 2.5 }
+    ],
+    "Fares": {
+  "1": { "Full": "$4.7", "Half": "$2.4", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+       "90MTZ": {
+    "Displays": [
+      { "ID": "rbxassetid://113644919630762", "Num": "90ᴍ", "Chi": "沙角東站", "Eng": "SHA KOK EAST STATION", "Delay": 4 }
+    ],
+    "Fares": {
+   "1": { "Full": "$4.7", "Half": "$2.4", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
          "92AY": {
     "Displays": [
       { "ID": "rbxassetid://123852047716464", "Num": "92ᴀ", "Chi": "東灣半島", "Eng": "EAST BAY RESORT", "Delay": 4 },
@@ -437,8 +484,8 @@
   },
      "92CP": {
     "Displays": [
-      { "ID": "rbxassetid://16741052300", "Num": "92c", "Chi": "沙角東站", "Eng": "SHA KOK EAST STATION", "Delay": 4 },
-      { "ID": "rbxassetid://16741053551", "Num": "92c", "Chi": "沙角東站", "Eng": "SHA KOK EAST STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://16741052300", "Num": "92c", "Chi": "只往 沙角東站", "Eng": "SHA KOK EAST STATION", "Delay": 4 },
+      { "ID": "rbxassetid://16741053551", "Num": "92c", "Chi": "只往 沙角東站", "Eng": "SHA KOK EAST STATION", "Delay": 2.5 }
     ],
     "Fares": {
    "1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/1" }
@@ -527,10 +574,32 @@
     },
     "TotalStages": 1
   },
+   "92PTY": {
+    "Displays": [
+      { "ID": "rbxassetid://76021007429191", "Num": "92ᴘ", "Chi": "頤和苑", "Eng": "YIN WO COURT", "Delay": 4 },
+       { "ID": "rbxassetid://128202975934053", "Num": "92ᴘ", "Chi": "經:嘉樂庇", "Eng": "VIA: CARLOB", "Delay": 2.5 }
+    ],
+    "Fares": {
+      "1": { "Full": "$8.2", "Half": "$4.1", "Para": "1/2" },
+      "2": { "Full": "$4.9", "Half": "$2.5", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+    "92PTZ": {
+    "Displays": [
+      { "ID": "rbxassetid://112269575604529", "Num": "92ᴘ", "Chi": "金獅西", "Eng": "GOLD LION (WEST)", "Delay": 4 },
+      { "ID": "rbxassetid://136632628973479", "Num": "92ᴘ", "Chi": "經:金獅第一城", "Eng": "VIA: GOLDEN LION CITY ONE", "Delay": 2.5 }
+    ],
+    "Fares": {
+"1": { "Full": "$8.2", "Half": "$4.1", "Para": "1/2" },
+       "2": { "Full": "$4.3", "Half": "$2.2", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
   "92XY": {
     "Displays": [
       { "ID": "rbxassetid://108995659488561", "Num": "92x", "Chi": "頤和苑", "Eng": "YIN WO COURT", "Delay": 4 },
-       { "ID": "rbxassetid://79009652440340", "Num": "92x", "Chi": "經:副都心", "Eng": "VIA: SUBURB", "Delay": 2.5 }
+       { "ID": "rbxassetid://72127503165119", "Num": "92x", "Chi": "經:副都心", "Eng": "VIA: SUBURB", "Delay": 2.5 }
     ],
     "Fares": {
       "1": { "Full": "$8.2", "Half": "$4.1", "Para": "1/3" },
@@ -543,6 +612,18 @@
     "Displays": [
       { "ID": "rbxassetid://15035080093", "Num": "92x", "Chi": "金泰邨", "Eng": "GOLD LION ESTATE", "Delay": 4 },
       { "ID": "rbxassetid://15572307422", "Num": "92x", "Chi": "貢景繞道特快", "Eng": "KUNG KING BYPASS EXPRESS", "Delay": 2.5 }
+    ],
+    "Fares": {
+"1": { "Full": "$8.2", "Half": "$4.1", "Para": "1/3" },
+      "2": { "Full": "$5.2", "Half": "$2.6", "Para": "2/3" },
+       "3": { "Full": "$3.3", "Half": "$1.7", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+      "92XTZ": {
+    "Displays": [
+      { "ID": "rbxassetid://95178344383595", "Num": "92x", "Chi": "金泰邨", "Eng": "GOLD LION ESTATE", "Delay": 4 },
+      { "ID": "rbxassetid://96824326083906", "Num": "92x", "Chi": "貢景繞道特快", "Eng": "KUNG KING BYPASS EXPRESS", "Delay": 2.5 }
     ],
     "Fares": {
 "1": { "Full": "$8.2", "Half": "$4.1", "Para": "1/3" },
