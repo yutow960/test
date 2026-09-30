@@ -703,8 +703,8 @@
   },
        "295MY": {
     "Displays": [
-      { "ID": "rbxassetid://15616204191", "Num": "295ᴍ", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
-       { "ID": "rbxassetid://15616203457", "Num": "295ᴍ", "Chi": "經:貢景", "Eng": "VIA: KUNG KING", "Delay": 2.5 }
+      { "ID": "rbxassetid://116903466546702", "Num": "295ᴍ", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
+       { "ID": "rbxassetid://139341784457697", "Num": "295ᴍ", "Chi": "經:貢景", "Eng": "VIA: KUNG KING", "Delay": 2.5 }
     ],
     "Fares": {
    "1": { "Full": "$8.5", "Half": "$4.3", "Para": "1/2" },
@@ -714,10 +714,34 @@
   },
     "295MZ": {
     "Displays": [
-      { "ID": "rbxassetid://15616205173", "Num": "295ᴍ", "Chi": "置安花園", "Eng": "CHI ON GARDEN", "Delay": 4 }
+      { "ID": "rbxassetid://79001618940961", "Num": "295ᴍ", "Chi": "置安花園", "Eng": "CHI ON GARDEN", "Delay": 4 },
+       { "ID": "rbxassetid://137556693018659", "Num": "295ᴍ", "Chi": "經:水時圍", "Eng": "VIA: SHUI SI WAI", "Delay": 2.5 }
     ],
     "Fares": {
  "1": { "Full": "$8.5", "Half": "$4.3", "Para": "1/2" },
+      "2": { "Full": "$4.3", "Half": "$2.2", "Para": "2/2" }
+    },
+    "TotalStages": 2
+  },
+       "295PTY": {
+    "Displays": [
+      { "ID": "rbxassetid://74656407889439", "Num": "295ᴘ", "Chi": "富豪商場", "Eng": "BELAIR SHOPPING CENTRE", "Delay": 4 },
+       { "ID": "rbxassetid://100469575773677", "Num": "295ᴘ", "Chi": "直達 > 海傍", "Eng": "DIRECT > PROMENADE", "Delay": 2.5 }
+    ],
+    "Fares": {
+  "1": { "Full": "$10.5", "Half": "$5.3", "Para": "1/3" },
+      "2": { "Full": "$9.5", "Half": "$4.8", "Para": "2/3" },
+      "3": { "Full": "$4.3", "Half": "$2.2", "Para": "3/3" }
+    },
+    "TotalStages": 3
+  },
+    "295PTZ": {
+    "Displays": [
+      { "ID": "rbxassetid://117120843321402", "Num": "295ᴘ", "Chi": "置安花園", "Eng": "CHI ON GARDEN", "Delay": 4 },
+       { "ID": "rbxassetid://123169136891809", "Num": "295ᴘ", "Chi": "經:水時圍", "Eng": "VIA: SHUI SI WAI", "Delay": 2.5 }
+    ],
+    "Fares": {
+ "1": { "Full": "$10.5", "Half": "$5.3", "Para": "1/2" },
       "2": { "Full": "$4.3", "Half": "$2.2", "Para": "2/2" }
     },
     "TotalStages": 2
