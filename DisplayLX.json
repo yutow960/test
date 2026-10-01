@@ -124,7 +124,7 @@
   },
     "NA32Y": {
     "Displays": [
-      { "ID": "rbxassetid://129268696355665", "Num": "NA32", "Chi": "機場", "Eng": "AIRPORT", "Delay": 4 }
+      { "ID": "rbxassetid://120538738014734", "Num": "NA32", "Chi": "機場", "Eng": "AIRPORT", "Delay": 4 }
     ],
     "Fares": {
        "1": { "Full": "$35.2", "Half": "$17.6", "Para": "1/2" },
@@ -134,8 +134,8 @@
   },
     "NA32Z": {
     "Displays": [
-      { "ID": "rbxassetid://121222943002762", "Num": "NA32", "Chi": "景明", "Eng": "KING MING", "Delay": 4 },
-      { "ID": "rbxassetid://76435862346223", "Num": "NA32", "Chi": "經:東灣,貢景", "Eng": "VIA: EAST BAY, KUNG KING", "Delay": 2.5 }
+      { "ID": "rbxassetid://106384697497993", "Num": "NA32", "Chi": "景明", "Eng": "KING MING", "Delay": 4 },
+      { "ID": "rbxassetid://118891287435088", "Num": "NA32", "Chi": "經:東灣,貢景", "Eng": "VIA: EAST BAY, KUNG KING", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$35.2", "Half": "$17.6", "Para": "1/3" },
