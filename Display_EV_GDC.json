@@ -482,46 +482,6 @@
     },
     "TotalStages": 2
   },
-     "92CP": {
-    "Displays": [
-      { "ID": "rbxassetid://16741052300", "Num": "92c", "Chi": "只往 沙角東站", "Eng": "SHA KOK EAST STATION", "Delay": 4 },
-      { "ID": "rbxassetid://16741053551", "Num": "92c", "Chi": "只往 沙角東站", "Eng": "SHA KOK EAST STATION", "Delay": 2.5 }
-    ],
-    "Fares": {
-   "1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/1" }
-    },
-    "TotalStages": 1
-  },
-    "92CS": {
-    "Displays": [
-      { "ID": "rbxassetid://16741077932", "Num": "92c", "Chi": "新哥頓中心", "Eng": "PARK GORDON", "Delay": 4 },
-      { "ID": "rbxassetid://16741078527", "Num": "92c", "Chi": "新哥頓中心", "Eng": "PARK GORDON", "Delay": 2.5 }
-    ],
-    "Fares": {
-"1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/1" }
-    },
-    "TotalStages": 1
-  },
-     "92CY": {
-    "Displays": [
-      { "ID": "rbxassetid://15035072849", "Num": "92c", "Chi": "沙角", "Eng": "SHA KOK", "Delay": 4 }
-    ],
-    "Fares": {
-   "1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/1" }
-    },
-    "TotalStages": 1
-  },
-    "92CZ": {
-    "Displays": [
-      { "ID": "rbxassetid://88424359891605", "Num": "92c", "Chi": "新哥頓中心", "Eng": "PARK GORDON", "Delay": 4 },
-      { "ID": "rbxassetid://124510331118253", "Num": "92c", "Chi": "經:第一醫院", "Eng": "VIA: FIRST HOSPITAL", "Delay": 2.5 },
-       { "ID": "rbxassetid://123302992398256", "Num": "92c", "Chi": "經:亞馬喇", "Eng": "VIA: FERRIRA", "Delay": 2.5 }
-    ],
-    "Fares": {
-"1": { "Full": "$7.8", "Half": "$3.9", "Para": "1/1" }
-    },
-    "TotalStages": 1
-  },
     "92DY": {
     "Displays": [
       { "ID": "rbxassetid://95235799673039", "Num": "92ᴅ", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
