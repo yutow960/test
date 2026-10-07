@@ -360,29 +360,6 @@
     },
     "TotalStages": 1
   },
-         "92AY": {
-    "Displays": [
-      { "ID": "rbxassetid://123852047716464", "Num": "92ᴀ", "Chi": "東灣半島", "Eng": "EAST BAY RESORT", "Delay": 4 },
-      { "ID": "rbxassetid://108282617673294", "Num": "92ᴀ", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 },
-      { "ID": "rbxassetid://100522940663975", "Num": "92ᴀ", "Chi": "經:第一醫院", "Eng": "VIA: FIRST HOSPITAL", "Delay": 2.5 }
-    ],
-    "Fares": {
-   "1": { "Full": "$5.2", "Half": "$2.6", "Para": "1/2" },
-        "2": { "Full": "$4.3", "Half": "$2.2", "Para": "2/2" }
-    },
-    "TotalStages": 2
-  },
-    "92AZ": {
-    "Displays": [
-      { "ID": "rbxassetid://84254758112121", "Num": "92ᴀ", "Chi": "金泰邨", "Eng": "KAM TAI ESTATE", "Delay": 4 },
-       { "ID": "rbxassetid://133366755904810", "Num": "92ᴀ", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 }
-    ],
-    "Fares": {
-      "1": { "Full": "$5.2", "Half": "$2.6", "Para": "1/2" },
-        "2": { "Full": "$4.3", "Half": "$2.2", "Para": "2/2" }
-    },
-    "TotalStages": 2
-  },
      "92CP": {
     "Displays": [
       { "ID": "rbxassetid://16741052300", "Num": "92c", "Chi": "只往 沙角東站", "Eng": "SHA KOK EAST STATION", "Delay": 4 },
