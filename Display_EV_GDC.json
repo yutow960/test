@@ -671,59 +671,6 @@
     },
     "TotalStages": 2
   },
-    "374P": {
-    "Displays": [
-      { "ID": "rbxassetid://15035120198", "Num": "374", "Chi": "貴華邨", "Eng": "KWAI WAH ESTATE", "Delay": 4 },
-       { "ID": "rbxassetid://15035118933", "Num": "374", "Chi": "經:松鼠山", "Eng": "VIA: SQUIRREL HILL", "Delay": 2.5 }
-    ],
-    "Fares": {
-       "1": { "Full": "$7.3", "Half": "$3.7", "Para": "1/3" },
-      "2": { "Full": "$5.8", "Half": "$2.9", "Para": "2/3" },
-      "3": { "Full": "$4.2", "Half": "$2.1", "Para": "3/3" }
-    },
-    "TotalStages": 3
-  },
-  "374Y": {
-    "Displays": [
-      { "ID": "rbxassetid://116768816921384", "Num": "374", "Chi": "綠水村", "Eng": "LUK SHUI VILLAGE", "Delay": 4 },
-       { "ID": "rbxassetid://15035115644", "Num": "374", "Chi": "經:珀澳道", "Eng": "VIA: PAK O ROAD", "Delay": 2.5 }
-    ],
-    "Fares": {
-      "1": { "Full": "$7.3", "Half": "$3.7", "Para": "1/3" },
-      "2": { "Full": "$5.4", "Half": "$2.7", "Para": "2/3" },
-      "3": { "Full": "$4.6", "Half": "$2.3", "Para": "3/3" }
-    },
-    "TotalStages": 3
-  },
-    "374Z": {
-    "Displays": [
-      { "ID": "rbxassetid://15035120198", "Num": "374", "Chi": "貴華邨", "Eng": "KWAI WAH ESTATE", "Delay": 4 }
-    ],
-    "Fares": {
-       "1": { "Full": "$7.3", "Half": "$3.7", "Para": "1/3" },
-      "2": { "Full": "$5.8", "Half": "$2.9", "Para": "2/3" },
-      "3": { "Full": "$4.2", "Half": "$2.1", "Para": "3/3" }
-    },
-    "TotalStages": 3
-  },
-   "392Y": {
-    "Displays": [
-      { "ID": "rbxassetid://16868432421", "Num": "392", "Chi": "水浪墳場", "Eng": "SHUI LONG CEMETERIES", "Delay": 4 }
-    ],
-    "Fares": {
-      "1": { "Full": "$12.1", "Half": "$6.1", "Para": "1/1" }
-    },
-    "TotalStages": 1
-  },
-    "392Z": {
-    "Displays": [
-      { "ID": "rbxassetid://16868433234", "Num": "392", "Chi": "沙角東站", "Eng": "SHA KOK EAST STATION", "Delay": 4 }
-    ],
-    "Fares": {
-       "1": { "Full": "$12.1", "Half": "$6.1", "Para": "1/1" }
-    },
-    "TotalStages": 1
-  },
     "X71Y": {
     "Displays": [
       { "ID": "rbxassetid://17316681081", "Num": "X71", "Chi": "貢景站", "Eng": "KUNG KING STATION", "Delay": 4 }
