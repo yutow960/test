@@ -34,8 +34,8 @@
   },
     "A32Z": {
     "Displays": [
-      { "ID": "rbxassetid://113414442129437", "Num": "A32", "Chi": "景明", "Eng": "KING MING", "Delay": 4 },
-      { "ID": "rbxassetid://99498434842380", "Num": "A32", "Chi": "經:海傍", "Eng": "VIA: PROMENADE", "Delay": 2.5 }
+      { "ID": "rbxassetid://91926040099210", "Num": "A32", "Chi": "景明", "Eng": "KING MING", "Delay": 4 },
+      { "ID": "rbxassetid://112308995017680", "Num": "A32", "Chi": "經:海傍", "Eng": "VIA: PROMENADE", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$28.9", "Half": "$14.5", "Para": "1/3" },
@@ -270,8 +270,8 @@
   },
     "NB3Z": {
     "Displays": [
-      { "ID": "rbxassetid://98254921277097", "Num": "NB3", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
-      { "ID": "rbxassetid://98936024252165", "Num": "NB3", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://72053603638866", "Num": "NB3", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
+      { "ID": "rbxassetid://127744329460982", "Num": "NB3", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$19.2", "Half": "$9.6", "Para": "1/2" },
