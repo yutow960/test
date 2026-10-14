@@ -973,8 +973,8 @@
   },
     "NB3Z": {
     "Displays": [
-      { "ID": "rbxassetid://98254921277097", "Num": "NB3", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
-      { "ID": "rbxassetid://98936024252165", "Num": "NB3", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 }
+      { "ID": "rbxassetid://134208550524945", "Num": "NB3", "Chi": "海傍碼頭", "Eng": "PROMENADE PIER", "Delay": 4 },
+      { "ID": "rbxassetid://75954974661902", "Num": "NB3", "Chi": "經:貢景站", "Eng": "VIA: KUNG KING STATION", "Delay": 2.5 }
     ],
     "Fares": {
        "1": { "Full": "$19.2", "Half": "$9.6", "Para": "1/2" },
