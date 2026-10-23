@@ -612,7 +612,7 @@
     "Displays": [
       { "ID": "rbxassetid://90405959910880", "Num": "92x", "Chi": "金泰邨", "Eng": "KAM TAI ESTATE", "Delay": 3.5 },
       { "ID": "rbxassetid://89323785815930", "Num": "92x", "Chi": "貢景繞道特快", "Eng": "KUNG KING BYPASS EXPRESS", "Delay": 2.5 },
-        { "ID": "rbxassetid://113217251673017", "Num": "92x", "Chi": "金泰邨", "Eng": "KAM TAI ESTATE", "Delay": 2.5 }
+        { "ID": "rbxassetid://128675007767026", "Num": "92x", "Chi": "金泰邨", "Eng": "KAM TAI ESTATE", "Delay": 2.5 }
     ],
     "Fares": {
 "1": { "Full": "$8.2", "Half": "$4.1", "Para": "1/3" },
