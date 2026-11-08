@@ -1,7 +1,7 @@
 {
   "NR5Y": {
     "Displays": [
-      { "ID": "rbxassetid://12631067628", "Num": "NR5", "Chi": "置富商貿區", "Eng": "CHI FU COMMERCIAL AREA", "Delay": 4 }
+      { "ID": "rbxassetid://103962903634996", "Num": "NR5", "Chi": "置富商貿區", "Eng": "CHI FU COMMERCIAL AREA", "Delay": 4 }
     ],
     "Fares": {
       "1": { "Full": "$5.5", "Half": "$5.5", "Para": "1/1" }
