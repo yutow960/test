@@ -1,0 +1,102 @@
+{
+  "NR5Y": {
+    "Displays": [
+      { "ID": "rbxassetid://12631067628", "Num": "NR5", "Chi": "置富商貿區", "Eng": "CHI FU COMMERCIAL AREA", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$5.5", "Half": "$5.5", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+  "NR5Z": {
+    "Displays": [
+      { "ID": "rbxassetid://12631071939", "Num": "NR5", "Chi": "尚安碼頭", "Eng": "SHEUNG ON PIER", "Delay": 4 }
+    ],
+    "Fares": {
+    "1": { "Full": "$5.5", "Half": "$5.5", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+   "NIS": {
+    "Displays": [
+      { "ID": "rbxassetid://96049727178321", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 },
+      { "ID": "rbxassetid://98923114969105", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+    "GENT": {
+    "Displays": [
+      { "ID": "rbxassetid://87317879245250", "Num": "GenT", "Chi": "Genuine Transit", "Eng": "Move Beyond", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+   "CNY": {
+    "Displays": [
+       { "ID": "rbxassetid://136614467363043", "Num": "", "Chi": "恭喜發財", "Eng": "KUNG HEI FAT CHOI", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+   "TB": {
+    "Displays": [
+       { "ID": "rbxassetid://86053520184184", "Num": "", "Chi": "訓練巴士", "Eng": "TRAINING BUS", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+    "CB": {
+    "Displays": [
+       { "ID": "rbxassetid://121789859186340", "Num": "", "Chi": "員工接送", "Eng": "CREW BUS", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+     "TR": {
+    "Displays": [
+       { "ID": "rbxassetid://119469412963977", "Num": "", "Chi": "試車", "Eng": "TRIAL RUN", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+    "DATA": {
+    "Displays": [
+       { "ID": "rbxassetid://13943539427", "Num": "", "Chi": "VERSION 30/5/2026", "Eng": "2.6051TJ", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+     "ADL": {
+    "Displays": [
+       { "ID": "rbxassetid://13982488986", "Num": "", "Chi": "", "Eng": "", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+     "MAN": {
+    "Displays": [
+       { "ID": "rbxassetid://13982489549", "Num": "", "Chi": "", "Eng": "", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$0.0", "Half": "$0.0", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  }
+}
