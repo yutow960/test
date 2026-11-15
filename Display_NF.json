@@ -17,6 +17,24 @@
     },
     "TotalStages": 1
   },
+    "NR5NY": {
+    "Displays": [
+      { "ID": "rbxassetid://83651749882569", "Num": "NR5", "Chi": "置富商貿區", "Eng": "CHI FU COMMERCIAL AREA", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$5.5", "Half": "$5.5", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
+  "NR5NZ": {
+    "Displays": [
+      { "ID": "rbxassetid://112715441023083", "Num": "NR5", "Chi": "尚安碼頭", "Eng": "SHEUNG ON PIER", "Delay": 4 }
+    ],
+    "Fares": {
+    "1": { "Full": "$5.5", "Half": "$5.5", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
    "NIS": {
     "Displays": [
       { "ID": "rbxassetid://96049727178321", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 },
