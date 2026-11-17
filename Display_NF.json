@@ -17,6 +17,15 @@
     },
     "TotalStages": 1
   },
+    "R1NY": {
+    "Displays": [
+      { "ID": "rbxassetid://103603094985321", "Num": "NR5", "Chi": "置富商貿區", "Eng": "CHI FU COMMERCIAL AREA", "Delay": 4 }
+    ],
+    "Fares": {
+      "1": { "Full": "$5.5", "Half": "$5.5", "Para": "1/1" }
+    },
+    "TotalStages": 1
+  },
    "NIS": {
     "Displays": [
       { "ID": "rbxassetid://96049727178321", "Num": "GenT", "Chi": "暫停服務", "Eng": "SORRY! NOT IN SERVICE", "Delay": 4 },
